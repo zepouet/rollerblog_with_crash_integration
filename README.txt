@@ -21,7 +21,7 @@ ROLLER SOURCE CODE
 <dependency>
     <groupId>org.crsh</groupId>
     <artifactId>crsh.shell.ssh</artifactId>
-    <version>1.3.0-beta2</version>
+    <version>1.3.0-beta2</version>	
 </dependency>
 
 <dependency>
@@ -42,3 +42,18 @@ ROLLER SOURCE CODE
 - Modify WEB-INF/web.xml to add CRaSH listener
 
 <listener> <listener-class>org.crsh.plugin.WebPluginLifeCycle</listener-class> </listener>
+
+- mvn clean install
+- mvn jetty:run
+- Add these jvm parameters to the jetty:run configuration : -Xms512m  -Xmx1024m -XX:PermSize=256m
+  Without you will have a permgen from groovy
+
+- Go to http://localhost:8080/roller
+- Create a simple account demo/demo
+- Open a ssh client (putty for windows user) and connect through SSH with the Roller username/password
+  ssh -p 2000 demo@localhost
+
+- You can use the default commands : clock, date
+- If you modify the groovy command, you have to stop it with Ctr-C and relaunch it to see the update.
+
+
