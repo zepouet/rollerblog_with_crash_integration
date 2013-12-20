@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/navbar
+END
+navbar-css.vm
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/navbar/navbar-css.vm
+END
+navbar-horizontal.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/navbar/navbar-horizontal.vm
+END
+navbar-vertical.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/navbar/navbar-vertical.vm
+END

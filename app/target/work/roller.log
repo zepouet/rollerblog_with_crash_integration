@@ -1,0 +1,696 @@
+INFO  2013-12-18 15:42:35,025 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:42:35,029 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:42:35,029 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 15:42:35,029 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 15:42:35,029 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:42:35,038 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+WARN  2013-12-18 15:42:35,171 WebloggerStartup:prepare - Failed to setup mail provider, continuing anyways.
+Reason: ERROR connecting to mail server
+INFO  2013-12-18 15:42:35,843 WebloggerFactory:bootstrap - Bootstrapping Roller Weblogger business tier
+INFO  2013-12-18 15:42:35,844 WebloggerFactory:bootstrap - Weblogger Provider = org.apache.roller.weblogger.business.GuiceWebloggerProvider
+INFO  2013-12-18 15:42:35,845 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:42:35,846 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:42:35,846 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 15:42:35,846 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 15:42:35,846 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:42:35,846 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+INFO  2013-12-18 15:42:35,852 JPAPersistenceStrategy:<init> - hibernate.transaction.manager_lookup_class: org.hibernate.transaction.JBossTransactionManagerLookup
+INFO  2013-12-18 15:42:35,853 JPAPersistenceStrategy:<init> - eclipselink.persistence-context.flush-mode: auto
+INFO  2013-12-18 15:42:35,854 JPAPersistenceStrategy:<init> - hibernate.transaction.factory_class: org.hibernate.transaction.JDBCTransactionFactory
+INFO  2013-12-18 15:42:35,854 JPAPersistenceStrategy:<init> - hibernate.dialect: org.hibernate.dialect.DerbyDialect
+INFO  2013-12-18 15:42:37,739 IndexManagerImpl:<init> - search enabled: true
+INFO  2013-12-18 15:42:37,739 IndexManagerImpl:<init> - index dir: C:\roller\trunk\roller_trunk\app\target\work\search-index
+INFO  2013-12-18 15:42:37,752 ReferrerQueueManagerImpl:<init> - Instantiating Referrer Queue Manager
+INFO  2013-12-18 15:42:37,752 ReferrerQueueManagerImpl:<init> - Asynchronous referrer processing = false
+INFO  2013-12-18 15:42:37,755 ThreadManagerImpl:<init> - Instantiating Thread Manager
+INFO  2013-12-18 15:42:37,760 WebloggerFactory:bootstrap - Roller Weblogger business tier successfully bootstrapped
+INFO  2013-12-18 15:42:37,761 WebloggerFactory:bootstrap -    Version: 5.1.0-SNAPSHOT
+INFO  2013-12-18 15:42:37,761 WebloggerFactory:bootstrap -    Revision: r1551915
+INFO  2013-12-18 15:42:37,761 WebloggerImpl:initialize - Initializing Roller Weblogger business tier
+INFO  2013-12-18 15:42:38,475 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.name ... setting value to [Roller Site`]
+INFO  2013-12-18 15:42:38,475 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.shortName ... setting value to [Front Page`]
+INFO  2013-12-18 15:42:38,476 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.description ... setting value to [A default install of the Roller Weblogger open source blog server`]
+INFO  2013-12-18 15:42:38,476 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.handle ... setting value to [`]
+INFO  2013-12-18 15:42:38,476 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.aggregated ... setting value to [false`]
+INFO  2013-12-18 15:42:38,476 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.adminemail ... setting value to [`]
+INFO  2013-12-18 15:42:38,476 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.absoluteurl ... setting value to [`]
+INFO  2013-12-18 15:42:38,477 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property pings.suspendPingProcessing ... setting value to [false`]
+INFO  2013-12-18 15:42:38,477 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.allowUserWeblogCreation ... setting value to [true`]
+INFO  2013-12-18 15:42:38,477 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.enabled ... setting value to [false`]
+INFO  2013-12-18 15:42:38,477 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.enabled ... setting value to [false`]
+INFO  2013-12-18 15:42:38,477 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.mail.from ... setting value to [`]
+INFO  2013-12-18 15:42:38,477 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.url ... setting value to [`]
+INFO  2013-12-18 15:42:38,478 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.editor.pages ... setting value to [editor-text.jsp,editor-rte.jsp,editor-xinha.jsp`]
+INFO  2013-12-18 15:42:38,478 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableXmlRpc ... setting value to [false`]
+INFO  2013-12-18 15:42:38,478 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableAtomPub ... setting value to [false`]
+INFO  2013-12-18 15:42:38,478 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.atomPubAuth ... setting value to [basic`]
+INFO  2013-12-18 15:42:38,478 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.pages.maxEntries ... setting value to [30`]
+INFO  2013-12-18 15:42:38,478 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.defaultEntries ... setting value to [30`]
+INFO  2013-12-18 15:42:38,479 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.styledFeeds ... setting value to [true`]
+INFO  2013-12-18 15:42:38,479 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.enabled ... setting value to [true`]
+INFO  2013-12-18 15:42:38,479 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property comments.ignoreSpam.enabled ... setting value to [false`]
+INFO  2013-12-18 15:42:38,479 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.trackbacks.enabled ... setting value to [true`]
+INFO  2013-12-18 15:42:38,479 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property trackbacks.ignoreSpam.enabled ... setting value to [true`]
+INFO  2013-12-18 15:42:38,479 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.htmlenabled ... setting value to [false`]
+INFO  2013-12-18 15:42:38,480 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.plugins ... setting value to [HTMLSubset`]
+INFO  2013-12-18 15:42:38,480 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.emailnotify ... setting value to [false`]
+INFO  2013-12-18 15:42:38,480 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.moderation.required ... setting value to [false`]
+INFO  2013-12-18 15:42:38,480 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.trackbackVerification.enabled ... setting value to [false`]
+INFO  2013-12-18 15:42:38,480 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.linkbacks.enabled ... setting value to [false`]
+INFO  2013-12-18 15:42:38,480 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.enabled ... setting value to [true`]
+INFO  2013-12-18 15:42:38,481 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.allowed ... setting value to [`]
+INFO  2013-12-18 15:42:38,481 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.forbid ... setting value to [exe`]
+INFO  2013-12-18 15:42:38,481 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.file.maxsize ... setting value to [1.00`]
+INFO  2013-12-18 15:42:38,481 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.dir.maxsize ... setting value to [4.00`]
+INFO  2013-12-18 15:42:38,481 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.themes.path ... setting value to [/themes`]
+INFO  2013-12-18 15:42:38,481 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property themes.customtheme.allowed ... setting value to [true`]
+INFO  2013-12-18 15:42:38,482 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property spam.blacklist ... setting value to [`]
+INFO  2013-12-18 15:42:38,566 ThemeManagerImpl:initialize - Loaded 5 themes from disk.
+INFO  2013-12-18 15:42:38,567 ThreadManagerImpl:initialize - Initializing task: ScheduledEntriesTask
+INFO  2013-12-18 15:42:38,586 ThreadManagerImpl:initialize - Initializing task: ResetHitCountsTask
+INFO  2013-12-18 15:42:38,590 ThreadManagerImpl:initialize - Initializing task: TurnoverReferersTask
+INFO  2013-12-18 15:42:38,594 ThreadManagerImpl:initialize - Initializing task: PingQueueTask
+INFO  2013-12-18 15:42:38,598 ThreadManagerImpl:initialize - Initializing task: TestTask
+INFO  2013-12-18 15:42:38,753 IndexManagerImpl:initialize - Index was inconsistent. Rebuilding index in the background...
+INFO  2013-12-18 15:42:38,768 PingConfig:initializeCommonTargets - Creating common ping target 'Technorati' from configuration properties.
+INFO  2013-12-18 15:42:38,769 PingConfig:initializeCommonTargets - Creating common ping target 'Weblogs.com' from configuration properties.
+INFO  2013-12-18 15:42:38,769 PingConfig:initializeCommonTargets - Creating common ping target 'blo.gs' from configuration properties.
+INFO  2013-12-18 15:42:38,769 PingConfig:initializeCommonTargets - Creating common ping target 'IceRocket' from configuration properties.
+INFO  2013-12-18 15:42:38,838 RebuildWebsiteIndexOperation:doRun - Completed rebuilding index for all users in '0.083' secs
+INFO  2013-12-18 15:42:38,894 WebloggerImpl:initialize - Roller Weblogger business tier successfully initialized
+INFO  2013-12-18 15:42:38,894 RollerContext:initializeSecurityFeatures - Remember Me enabled: true
+INFO  2013-12-18 15:42:38,895 RollerContext:setupVelocity - Initializing Velocity
+INFO  2013-12-18 15:42:40,779 RequestMappingFilter:init - Request mapping filter initialized, 1 mappers configured.
+INFO  2013-12-18 15:42:40,782 IPBanFilter:init - INIT IPBanFilter
+INFO  2013-12-18 15:42:40,791 PageServlet:init - Initializing PageServlet
+INFO  2013-12-18 15:42:40,792 WeblogPageCache:<init> - {id=cache.weblogpage, enabled=false, timeout=3600, size=400}
+WARN  2013-12-18 15:42:40,792 WeblogPageCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:42:40,792 SiteWideCache:<init> - {id=cache.sitewide, enabled=false, timeout=1800, size=50}
+WARN  2013-12-18 15:42:40,793 SiteWideCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:42:40,793 PageServlet:init - Referrer processing enabled = false
+INFO  2013-12-18 15:42:40,795 FeedServlet:init - Initializing FeedServlet
+INFO  2013-12-18 15:42:40,795 WeblogFeedCache:<init> - {id=cache.weblogfeed, enabled=false, timeout=3600, size=200}
+WARN  2013-12-18 15:42:40,796 WeblogFeedCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:42:40,797 ResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 15:42:40,798 MediaResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 15:42:40,801 SearchServlet:init - Initializing SearchServlet
+INFO  2013-12-18 15:42:40,806 CommentServlet:init - Initializing CommentServlet
+INFO  2013-12-18 15:42:40,818 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:42:40,819 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:42:40,820 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:42:40,821 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:42:40,821 CommentServlet:init - Comment Throttling DISABLED
+INFO  2013-12-18 15:42:40,823 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:42:40,823 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:42:40,823 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:42:40,824 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:42:40,825 RSDServlet:init - Initializing RSDServlet
+INFO  2013-12-18 15:42:40,828 PlanetFeedServlet:init - Initializing PlanetRssServlet
+INFO  2013-12-18 15:42:40,829 PlanetCache:<init> - Planet cache = {id=cache.planet, enabled=false, timeout=1800, size=10}
+WARN  2013-12-18 15:42:40,829 PlanetCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:42:40,832 PreviewServlet:init - Initializing PreviewServlet
+INFO  2013-12-18 15:42:40,834 PreviewResourceServlet:init - Initializing PreviewResourceServlet
+INFO  2013-12-18 15:42:40,835 PreviewThemeImageServlet:init - Initializing PreviewThemeImageServlet
+INFO  2013-12-18 15:43:28,717 SaltCache:<init> - {id=cache.salt, enabled=true, timeout=3600, size=5000}
+INFO  2013-12-18 15:43:28,721 CacheManager:<clinit> - Cache Manager Initialized.
+INFO  2013-12-18 15:43:28,721 CacheManager:<clinit> - Cache Factory = org.apache.roller.weblogger.util.cache.ExpiringLRUCacheFactoryImpl
+INFO  2013-12-18 15:49:20,669 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:49:20,672 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:49:20,672 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 15:49:20,672 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 15:49:20,672 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:49:20,680 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+WARN  2013-12-18 15:49:20,812 WebloggerStartup:prepare - Failed to setup mail provider, continuing anyways.
+Reason: ERROR connecting to mail server
+INFO  2013-12-18 15:49:21,470 WebloggerFactory:bootstrap - Bootstrapping Roller Weblogger business tier
+INFO  2013-12-18 15:49:21,470 WebloggerFactory:bootstrap - Weblogger Provider = org.apache.roller.weblogger.business.GuiceWebloggerProvider
+INFO  2013-12-18 15:49:21,471 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:49:21,472 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:49:21,472 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 15:49:21,472 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 15:49:21,473 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:49:21,473 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+INFO  2013-12-18 15:49:21,478 JPAPersistenceStrategy:<init> - hibernate.transaction.manager_lookup_class: org.hibernate.transaction.JBossTransactionManagerLookup
+INFO  2013-12-18 15:49:21,480 JPAPersistenceStrategy:<init> - eclipselink.persistence-context.flush-mode: auto
+INFO  2013-12-18 15:49:21,480 JPAPersistenceStrategy:<init> - hibernate.transaction.factory_class: org.hibernate.transaction.JDBCTransactionFactory
+INFO  2013-12-18 15:49:21,480 JPAPersistenceStrategy:<init> - hibernate.dialect: org.hibernate.dialect.DerbyDialect
+INFO  2013-12-18 15:49:23,354 IndexManagerImpl:<init> - search enabled: true
+INFO  2013-12-18 15:49:23,355 IndexManagerImpl:<init> - index dir: C:\roller\trunk\roller_trunk\app\target\work\search-index
+INFO  2013-12-18 15:49:23,369 ReferrerQueueManagerImpl:<init> - Instantiating Referrer Queue Manager
+INFO  2013-12-18 15:49:23,370 ReferrerQueueManagerImpl:<init> - Asynchronous referrer processing = false
+INFO  2013-12-18 15:49:23,373 ThreadManagerImpl:<init> - Instantiating Thread Manager
+INFO  2013-12-18 15:49:23,378 WebloggerFactory:bootstrap - Roller Weblogger business tier successfully bootstrapped
+INFO  2013-12-18 15:49:23,379 WebloggerFactory:bootstrap -    Version: 5.1.0-SNAPSHOT
+INFO  2013-12-18 15:49:23,379 WebloggerFactory:bootstrap -    Revision: r1551915
+INFO  2013-12-18 15:49:23,379 WebloggerImpl:initialize - Initializing Roller Weblogger business tier
+INFO  2013-12-18 15:49:24,104 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.name ... setting value to [Roller Site`]
+INFO  2013-12-18 15:49:24,104 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.shortName ... setting value to [Front Page`]
+INFO  2013-12-18 15:49:24,104 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.description ... setting value to [A default install of the Roller Weblogger open source blog server`]
+INFO  2013-12-18 15:49:24,105 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.handle ... setting value to [`]
+INFO  2013-12-18 15:49:24,105 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.aggregated ... setting value to [false`]
+INFO  2013-12-18 15:49:24,105 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.adminemail ... setting value to [`]
+INFO  2013-12-18 15:49:24,105 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.absoluteurl ... setting value to [`]
+INFO  2013-12-18 15:49:24,105 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property pings.suspendPingProcessing ... setting value to [false`]
+INFO  2013-12-18 15:49:24,105 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.allowUserWeblogCreation ... setting value to [true`]
+INFO  2013-12-18 15:49:24,106 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.enabled ... setting value to [false`]
+INFO  2013-12-18 15:49:24,106 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.enabled ... setting value to [false`]
+INFO  2013-12-18 15:49:24,106 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.mail.from ... setting value to [`]
+INFO  2013-12-18 15:49:24,106 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.url ... setting value to [`]
+INFO  2013-12-18 15:49:24,106 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.editor.pages ... setting value to [editor-text.jsp,editor-rte.jsp,editor-xinha.jsp`]
+INFO  2013-12-18 15:49:24,107 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableXmlRpc ... setting value to [false`]
+INFO  2013-12-18 15:49:24,107 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableAtomPub ... setting value to [false`]
+INFO  2013-12-18 15:49:24,107 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.atomPubAuth ... setting value to [basic`]
+INFO  2013-12-18 15:49:24,107 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.pages.maxEntries ... setting value to [30`]
+INFO  2013-12-18 15:49:24,107 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.defaultEntries ... setting value to [30`]
+INFO  2013-12-18 15:49:24,108 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.styledFeeds ... setting value to [true`]
+INFO  2013-12-18 15:49:24,108 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.enabled ... setting value to [true`]
+INFO  2013-12-18 15:49:24,108 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property comments.ignoreSpam.enabled ... setting value to [false`]
+INFO  2013-12-18 15:49:24,108 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.trackbacks.enabled ... setting value to [true`]
+INFO  2013-12-18 15:49:24,108 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property trackbacks.ignoreSpam.enabled ... setting value to [true`]
+INFO  2013-12-18 15:49:24,108 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.htmlenabled ... setting value to [false`]
+INFO  2013-12-18 15:49:24,109 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.plugins ... setting value to [HTMLSubset`]
+INFO  2013-12-18 15:49:24,109 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.emailnotify ... setting value to [false`]
+INFO  2013-12-18 15:49:24,109 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.moderation.required ... setting value to [false`]
+INFO  2013-12-18 15:49:24,109 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.trackbackVerification.enabled ... setting value to [false`]
+INFO  2013-12-18 15:49:24,110 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.linkbacks.enabled ... setting value to [false`]
+INFO  2013-12-18 15:49:24,110 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.enabled ... setting value to [true`]
+INFO  2013-12-18 15:49:24,110 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.allowed ... setting value to [`]
+INFO  2013-12-18 15:49:24,110 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.forbid ... setting value to [exe`]
+INFO  2013-12-18 15:49:24,110 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.file.maxsize ... setting value to [1.00`]
+INFO  2013-12-18 15:49:24,111 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.dir.maxsize ... setting value to [4.00`]
+INFO  2013-12-18 15:49:24,111 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.themes.path ... setting value to [/themes`]
+INFO  2013-12-18 15:49:24,111 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property themes.customtheme.allowed ... setting value to [true`]
+INFO  2013-12-18 15:49:24,111 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property spam.blacklist ... setting value to [`]
+INFO  2013-12-18 15:49:24,199 ThemeManagerImpl:initialize - Loaded 5 themes from disk.
+INFO  2013-12-18 15:49:24,200 ThreadManagerImpl:initialize - Initializing task: ScheduledEntriesTask
+INFO  2013-12-18 15:49:24,219 ThreadManagerImpl:initialize - Initializing task: ResetHitCountsTask
+INFO  2013-12-18 15:49:24,223 ThreadManagerImpl:initialize - Initializing task: TurnoverReferersTask
+INFO  2013-12-18 15:49:24,226 ThreadManagerImpl:initialize - Initializing task: PingQueueTask
+INFO  2013-12-18 15:49:24,231 ThreadManagerImpl:initialize - Initializing task: TestTask
+INFO  2013-12-18 15:49:24,251 IndexManagerImpl:initialize - Index initialized and ready for use.
+INFO  2013-12-18 15:49:24,262 PingConfig:initializeCommonTargets - Creating common ping target 'Technorati' from configuration properties.
+INFO  2013-12-18 15:49:24,263 PingConfig:initializeCommonTargets - Creating common ping target 'Weblogs.com' from configuration properties.
+INFO  2013-12-18 15:49:24,263 PingConfig:initializeCommonTargets - Creating common ping target 'blo.gs' from configuration properties.
+INFO  2013-12-18 15:49:24,263 PingConfig:initializeCommonTargets - Creating common ping target 'IceRocket' from configuration properties.
+INFO  2013-12-18 15:49:24,363 WebloggerImpl:initialize - Roller Weblogger business tier successfully initialized
+INFO  2013-12-18 15:49:24,364 RollerContext:initializeSecurityFeatures - Remember Me enabled: true
+INFO  2013-12-18 15:49:24,364 RollerContext:setupVelocity - Initializing Velocity
+INFO  2013-12-18 15:49:26,223 RequestMappingFilter:init - Request mapping filter initialized, 1 mappers configured.
+INFO  2013-12-18 15:49:26,226 IPBanFilter:init - INIT IPBanFilter
+INFO  2013-12-18 15:49:26,240 PageServlet:init - Initializing PageServlet
+INFO  2013-12-18 15:49:26,241 WeblogPageCache:<init> - {id=cache.weblogpage, enabled=false, timeout=3600, size=400}
+WARN  2013-12-18 15:49:26,241 WeblogPageCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:49:26,242 SiteWideCache:<init> - {id=cache.sitewide, enabled=false, timeout=1800, size=50}
+WARN  2013-12-18 15:49:26,242 SiteWideCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:49:26,243 PageServlet:init - Referrer processing enabled = false
+INFO  2013-12-18 15:49:26,246 FeedServlet:init - Initializing FeedServlet
+INFO  2013-12-18 15:49:26,247 WeblogFeedCache:<init> - {id=cache.weblogfeed, enabled=false, timeout=3600, size=200}
+WARN  2013-12-18 15:49:26,247 WeblogFeedCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:49:26,249 ResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 15:49:26,251 MediaResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 15:49:26,252 SearchServlet:init - Initializing SearchServlet
+INFO  2013-12-18 15:49:26,256 CommentServlet:init - Initializing CommentServlet
+INFO  2013-12-18 15:49:26,268 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:49:26,269 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:49:26,269 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:49:26,270 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:49:26,270 CommentServlet:init - Comment Throttling DISABLED
+INFO  2013-12-18 15:49:26,271 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:49:26,272 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:49:26,272 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:49:26,272 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:49:26,273 RSDServlet:init - Initializing RSDServlet
+INFO  2013-12-18 15:49:26,277 PlanetFeedServlet:init - Initializing PlanetRssServlet
+INFO  2013-12-18 15:49:26,278 PlanetCache:<init> - Planet cache = {id=cache.planet, enabled=false, timeout=1800, size=10}
+WARN  2013-12-18 15:49:26,278 PlanetCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:49:26,280 PreviewServlet:init - Initializing PreviewServlet
+INFO  2013-12-18 15:49:26,282 PreviewResourceServlet:init - Initializing PreviewResourceServlet
+INFO  2013-12-18 15:49:26,283 PreviewThemeImageServlet:init - Initializing PreviewThemeImageServlet
+INFO  2013-12-18 15:50:47,761 SaltCache:<init> - {id=cache.salt, enabled=true, timeout=3600, size=5000}
+INFO  2013-12-18 15:50:47,765 CacheManager:<clinit> - Cache Manager Initialized.
+INFO  2013-12-18 15:50:47,766 CacheManager:<clinit> - Cache Factory = org.apache.roller.weblogger.util.cache.ExpiringLRUCacheFactoryImpl
+INFO  2013-12-18 15:56:18,019 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:56:18,022 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:56:18,022 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 15:56:18,022 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 15:56:18,022 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:56:18,030 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+WARN  2013-12-18 15:56:18,163 WebloggerStartup:prepare - Failed to setup mail provider, continuing anyways.
+Reason: ERROR connecting to mail server
+INFO  2013-12-18 15:56:18,836 WebloggerFactory:bootstrap - Bootstrapping Roller Weblogger business tier
+INFO  2013-12-18 15:56:18,837 WebloggerFactory:bootstrap - Weblogger Provider = org.apache.roller.weblogger.business.GuiceWebloggerProvider
+INFO  2013-12-18 15:56:18,838 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:56:18,839 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:56:18,839 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 15:56:18,839 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 15:56:18,839 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:56:18,840 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+INFO  2013-12-18 15:56:18,845 JPAPersistenceStrategy:<init> - hibernate.transaction.manager_lookup_class: org.hibernate.transaction.JBossTransactionManagerLookup
+INFO  2013-12-18 15:56:18,847 JPAPersistenceStrategy:<init> - eclipselink.persistence-context.flush-mode: auto
+INFO  2013-12-18 15:56:18,847 JPAPersistenceStrategy:<init> - hibernate.transaction.factory_class: org.hibernate.transaction.JDBCTransactionFactory
+INFO  2013-12-18 15:56:18,847 JPAPersistenceStrategy:<init> - hibernate.dialect: org.hibernate.dialect.DerbyDialect
+INFO  2013-12-18 15:56:20,764 IndexManagerImpl:<init> - search enabled: true
+INFO  2013-12-18 15:56:20,765 IndexManagerImpl:<init> - index dir: C:\roller\trunk\roller_trunk\app\target\work\search-index
+INFO  2013-12-18 15:56:20,777 ReferrerQueueManagerImpl:<init> - Instantiating Referrer Queue Manager
+INFO  2013-12-18 15:56:20,778 ReferrerQueueManagerImpl:<init> - Asynchronous referrer processing = false
+INFO  2013-12-18 15:56:20,781 ThreadManagerImpl:<init> - Instantiating Thread Manager
+INFO  2013-12-18 15:56:20,785 WebloggerFactory:bootstrap - Roller Weblogger business tier successfully bootstrapped
+INFO  2013-12-18 15:56:20,786 WebloggerFactory:bootstrap -    Version: 5.1.0-SNAPSHOT
+INFO  2013-12-18 15:56:20,786 WebloggerFactory:bootstrap -    Revision: r1551915
+INFO  2013-12-18 15:56:20,786 WebloggerImpl:initialize - Initializing Roller Weblogger business tier
+INFO  2013-12-18 15:56:21,501 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.name ... setting value to [Roller Site`]
+INFO  2013-12-18 15:56:21,502 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.shortName ... setting value to [Front Page`]
+INFO  2013-12-18 15:56:21,502 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.description ... setting value to [A default install of the Roller Weblogger open source blog server`]
+INFO  2013-12-18 15:56:21,502 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.handle ... setting value to [`]
+INFO  2013-12-18 15:56:21,502 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.aggregated ... setting value to [false`]
+INFO  2013-12-18 15:56:21,503 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.adminemail ... setting value to [`]
+INFO  2013-12-18 15:56:21,503 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.absoluteurl ... setting value to [`]
+INFO  2013-12-18 15:56:21,503 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property pings.suspendPingProcessing ... setting value to [false`]
+INFO  2013-12-18 15:56:21,503 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.allowUserWeblogCreation ... setting value to [true`]
+INFO  2013-12-18 15:56:21,503 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.enabled ... setting value to [false`]
+INFO  2013-12-18 15:56:21,503 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.enabled ... setting value to [false`]
+INFO  2013-12-18 15:56:21,503 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.mail.from ... setting value to [`]
+INFO  2013-12-18 15:56:21,504 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.url ... setting value to [`]
+INFO  2013-12-18 15:56:21,504 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.editor.pages ... setting value to [editor-text.jsp,editor-rte.jsp,editor-xinha.jsp`]
+INFO  2013-12-18 15:56:21,504 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableXmlRpc ... setting value to [false`]
+INFO  2013-12-18 15:56:21,504 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableAtomPub ... setting value to [false`]
+INFO  2013-12-18 15:56:21,504 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.atomPubAuth ... setting value to [basic`]
+INFO  2013-12-18 15:56:21,504 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.pages.maxEntries ... setting value to [30`]
+INFO  2013-12-18 15:56:21,505 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.defaultEntries ... setting value to [30`]
+INFO  2013-12-18 15:56:21,505 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.styledFeeds ... setting value to [true`]
+INFO  2013-12-18 15:56:21,505 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.enabled ... setting value to [true`]
+INFO  2013-12-18 15:56:21,505 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property comments.ignoreSpam.enabled ... setting value to [false`]
+INFO  2013-12-18 15:56:21,505 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.trackbacks.enabled ... setting value to [true`]
+INFO  2013-12-18 15:56:21,506 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property trackbacks.ignoreSpam.enabled ... setting value to [true`]
+INFO  2013-12-18 15:56:21,506 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.htmlenabled ... setting value to [false`]
+INFO  2013-12-18 15:56:21,506 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.plugins ... setting value to [HTMLSubset`]
+INFO  2013-12-18 15:56:21,506 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.emailnotify ... setting value to [false`]
+INFO  2013-12-18 15:56:21,506 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.moderation.required ... setting value to [false`]
+INFO  2013-12-18 15:56:21,506 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.trackbackVerification.enabled ... setting value to [false`]
+INFO  2013-12-18 15:56:21,507 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.linkbacks.enabled ... setting value to [false`]
+INFO  2013-12-18 15:56:21,507 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.enabled ... setting value to [true`]
+INFO  2013-12-18 15:56:21,507 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.allowed ... setting value to [`]
+INFO  2013-12-18 15:56:21,507 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.forbid ... setting value to [exe`]
+INFO  2013-12-18 15:56:21,507 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.file.maxsize ... setting value to [1.00`]
+INFO  2013-12-18 15:56:21,507 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.dir.maxsize ... setting value to [4.00`]
+INFO  2013-12-18 15:56:21,508 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.themes.path ... setting value to [/themes`]
+INFO  2013-12-18 15:56:21,508 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property themes.customtheme.allowed ... setting value to [true`]
+INFO  2013-12-18 15:56:21,508 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property spam.blacklist ... setting value to [`]
+INFO  2013-12-18 15:56:21,593 ThemeManagerImpl:initialize - Loaded 5 themes from disk.
+INFO  2013-12-18 15:56:21,594 ThreadManagerImpl:initialize - Initializing task: ScheduledEntriesTask
+INFO  2013-12-18 15:56:21,616 ThreadManagerImpl:initialize - Initializing task: ResetHitCountsTask
+INFO  2013-12-18 15:56:21,620 ThreadManagerImpl:initialize - Initializing task: TurnoverReferersTask
+INFO  2013-12-18 15:56:21,625 ThreadManagerImpl:initialize - Initializing task: PingQueueTask
+INFO  2013-12-18 15:56:21,630 ThreadManagerImpl:initialize - Initializing task: TestTask
+INFO  2013-12-18 15:56:21,806 IndexManagerImpl:initialize - Index was inconsistent. Rebuilding index in the background...
+INFO  2013-12-18 15:56:21,822 PingConfig:initializeCommonTargets - Creating common ping target 'Technorati' from configuration properties.
+INFO  2013-12-18 15:56:21,823 PingConfig:initializeCommonTargets - Creating common ping target 'Weblogs.com' from configuration properties.
+INFO  2013-12-18 15:56:21,823 PingConfig:initializeCommonTargets - Creating common ping target 'blo.gs' from configuration properties.
+INFO  2013-12-18 15:56:21,824 PingConfig:initializeCommonTargets - Creating common ping target 'IceRocket' from configuration properties.
+INFO  2013-12-18 15:56:21,902 RebuildWebsiteIndexOperation:doRun - Completed rebuilding index for all users in '0.093' secs
+INFO  2013-12-18 15:56:21,976 WebloggerImpl:initialize - Roller Weblogger business tier successfully initialized
+INFO  2013-12-18 15:56:21,976 RollerContext:initializeSecurityFeatures - Remember Me enabled: true
+INFO  2013-12-18 15:56:21,976 RollerContext:setupVelocity - Initializing Velocity
+INFO  2013-12-18 15:56:23,846 RequestMappingFilter:init - Request mapping filter initialized, 1 mappers configured.
+INFO  2013-12-18 15:56:23,848 IPBanFilter:init - INIT IPBanFilter
+INFO  2013-12-18 15:56:23,858 PageServlet:init - Initializing PageServlet
+INFO  2013-12-18 15:56:23,858 WeblogPageCache:<init> - {id=cache.weblogpage, enabled=false, timeout=3600, size=400}
+WARN  2013-12-18 15:56:23,859 WeblogPageCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:56:23,860 SiteWideCache:<init> - {id=cache.sitewide, enabled=false, timeout=1800, size=50}
+WARN  2013-12-18 15:56:23,860 SiteWideCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:56:23,860 PageServlet:init - Referrer processing enabled = false
+INFO  2013-12-18 15:56:23,862 FeedServlet:init - Initializing FeedServlet
+INFO  2013-12-18 15:56:23,863 WeblogFeedCache:<init> - {id=cache.weblogfeed, enabled=false, timeout=3600, size=200}
+WARN  2013-12-18 15:56:23,863 WeblogFeedCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:56:23,865 ResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 15:56:23,866 MediaResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 15:56:23,868 SearchServlet:init - Initializing SearchServlet
+INFO  2013-12-18 15:56:23,872 CommentServlet:init - Initializing CommentServlet
+INFO  2013-12-18 15:56:23,883 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:56:23,884 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:56:23,885 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:56:23,885 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:56:23,885 CommentServlet:init - Comment Throttling DISABLED
+INFO  2013-12-18 15:56:23,887 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:56:23,887 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:56:23,887 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:56:23,887 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:56:23,889 RSDServlet:init - Initializing RSDServlet
+INFO  2013-12-18 15:56:23,891 PlanetFeedServlet:init - Initializing PlanetRssServlet
+INFO  2013-12-18 15:56:23,892 PlanetCache:<init> - Planet cache = {id=cache.planet, enabled=false, timeout=1800, size=10}
+WARN  2013-12-18 15:56:23,892 PlanetCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:56:23,894 PreviewServlet:init - Initializing PreviewServlet
+INFO  2013-12-18 15:56:23,895 PreviewResourceServlet:init - Initializing PreviewResourceServlet
+INFO  2013-12-18 15:56:23,897 PreviewThemeImageServlet:init - Initializing PreviewThemeImageServlet
+INFO  2013-12-18 15:56:48,847 SaltCache:<init> - {id=cache.salt, enabled=true, timeout=3600, size=5000}
+INFO  2013-12-18 15:56:48,851 CacheManager:<clinit> - Cache Manager Initialized.
+INFO  2013-12-18 15:56:48,851 CacheManager:<clinit> - Cache Factory = org.apache.roller.weblogger.util.cache.ExpiringLRUCacheFactoryImpl
+INFO  2013-12-18 15:59:18,409 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:59:18,412 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:59:18,412 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 15:59:18,412 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 15:59:18,412 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:59:18,420 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+WARN  2013-12-18 15:59:18,551 WebloggerStartup:prepare - Failed to setup mail provider, continuing anyways.
+Reason: ERROR connecting to mail server
+INFO  2013-12-18 15:59:19,206 WebloggerFactory:bootstrap - Bootstrapping Roller Weblogger business tier
+INFO  2013-12-18 15:59:19,207 WebloggerFactory:bootstrap - Weblogger Provider = org.apache.roller.weblogger.business.GuiceWebloggerProvider
+INFO  2013-12-18 15:59:19,208 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:59:19,208 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:59:19,209 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 15:59:19,209 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 15:59:19,209 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:59:19,209 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+INFO  2013-12-18 15:59:19,215 JPAPersistenceStrategy:<init> - hibernate.transaction.manager_lookup_class: org.hibernate.transaction.JBossTransactionManagerLookup
+INFO  2013-12-18 15:59:19,216 JPAPersistenceStrategy:<init> - eclipselink.persistence-context.flush-mode: auto
+INFO  2013-12-18 15:59:19,217 JPAPersistenceStrategy:<init> - hibernate.transaction.factory_class: org.hibernate.transaction.JDBCTransactionFactory
+INFO  2013-12-18 15:59:19,217 JPAPersistenceStrategy:<init> - hibernate.dialect: org.hibernate.dialect.DerbyDialect
+INFO  2013-12-18 15:59:21,023 IndexManagerImpl:<init> - search enabled: true
+INFO  2013-12-18 15:59:21,023 IndexManagerImpl:<init> - index dir: C:\roller\trunk\roller_trunk\app\target\work\search-index
+INFO  2013-12-18 15:59:21,035 ReferrerQueueManagerImpl:<init> - Instantiating Referrer Queue Manager
+INFO  2013-12-18 15:59:21,035 ReferrerQueueManagerImpl:<init> - Asynchronous referrer processing = false
+INFO  2013-12-18 15:59:21,039 ThreadManagerImpl:<init> - Instantiating Thread Manager
+INFO  2013-12-18 15:59:21,043 WebloggerFactory:bootstrap - Roller Weblogger business tier successfully bootstrapped
+INFO  2013-12-18 15:59:21,044 WebloggerFactory:bootstrap -    Version: 5.1.0-SNAPSHOT
+INFO  2013-12-18 15:59:21,044 WebloggerFactory:bootstrap -    Revision: r1551915
+INFO  2013-12-18 15:59:21,044 WebloggerImpl:initialize - Initializing Roller Weblogger business tier
+INFO  2013-12-18 15:59:21,785 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.name ... setting value to [Roller Site`]
+INFO  2013-12-18 15:59:21,785 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.shortName ... setting value to [Front Page`]
+INFO  2013-12-18 15:59:21,786 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.description ... setting value to [A default install of the Roller Weblogger open source blog server`]
+INFO  2013-12-18 15:59:21,786 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.handle ... setting value to [`]
+INFO  2013-12-18 15:59:21,786 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.aggregated ... setting value to [false`]
+INFO  2013-12-18 15:59:21,786 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.adminemail ... setting value to [`]
+INFO  2013-12-18 15:59:21,786 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.absoluteurl ... setting value to [`]
+INFO  2013-12-18 15:59:21,787 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property pings.suspendPingProcessing ... setting value to [false`]
+INFO  2013-12-18 15:59:21,787 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.allowUserWeblogCreation ... setting value to [true`]
+INFO  2013-12-18 15:59:21,787 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.enabled ... setting value to [false`]
+INFO  2013-12-18 15:59:21,787 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.enabled ... setting value to [false`]
+INFO  2013-12-18 15:59:21,787 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.mail.from ... setting value to [`]
+INFO  2013-12-18 15:59:21,787 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.url ... setting value to [`]
+INFO  2013-12-18 15:59:21,788 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.editor.pages ... setting value to [editor-text.jsp,editor-rte.jsp,editor-xinha.jsp`]
+INFO  2013-12-18 15:59:21,788 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableXmlRpc ... setting value to [false`]
+INFO  2013-12-18 15:59:21,788 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableAtomPub ... setting value to [false`]
+INFO  2013-12-18 15:59:21,788 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.atomPubAuth ... setting value to [basic`]
+INFO  2013-12-18 15:59:21,788 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.pages.maxEntries ... setting value to [30`]
+INFO  2013-12-18 15:59:21,788 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.defaultEntries ... setting value to [30`]
+INFO  2013-12-18 15:59:21,789 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.styledFeeds ... setting value to [true`]
+INFO  2013-12-18 15:59:21,789 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.enabled ... setting value to [true`]
+INFO  2013-12-18 15:59:21,789 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property comments.ignoreSpam.enabled ... setting value to [false`]
+INFO  2013-12-18 15:59:21,789 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.trackbacks.enabled ... setting value to [true`]
+INFO  2013-12-18 15:59:21,789 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property trackbacks.ignoreSpam.enabled ... setting value to [true`]
+INFO  2013-12-18 15:59:21,789 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.htmlenabled ... setting value to [false`]
+INFO  2013-12-18 15:59:21,790 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.plugins ... setting value to [HTMLSubset`]
+INFO  2013-12-18 15:59:21,790 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.emailnotify ... setting value to [false`]
+INFO  2013-12-18 15:59:21,790 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.moderation.required ... setting value to [false`]
+INFO  2013-12-18 15:59:21,790 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.trackbackVerification.enabled ... setting value to [false`]
+INFO  2013-12-18 15:59:21,790 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.linkbacks.enabled ... setting value to [false`]
+INFO  2013-12-18 15:59:21,790 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.enabled ... setting value to [true`]
+INFO  2013-12-18 15:59:21,791 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.allowed ... setting value to [`]
+INFO  2013-12-18 15:59:21,791 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.forbid ... setting value to [exe`]
+INFO  2013-12-18 15:59:21,791 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.file.maxsize ... setting value to [1.00`]
+INFO  2013-12-18 15:59:21,791 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.dir.maxsize ... setting value to [4.00`]
+INFO  2013-12-18 15:59:21,791 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.themes.path ... setting value to [/themes`]
+INFO  2013-12-18 15:59:21,791 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property themes.customtheme.allowed ... setting value to [true`]
+INFO  2013-12-18 15:59:21,792 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property spam.blacklist ... setting value to [`]
+INFO  2013-12-18 15:59:21,878 ThemeManagerImpl:initialize - Loaded 5 themes from disk.
+INFO  2013-12-18 15:59:21,878 ThreadManagerImpl:initialize - Initializing task: ScheduledEntriesTask
+INFO  2013-12-18 15:59:21,897 ThreadManagerImpl:initialize - Initializing task: ResetHitCountsTask
+INFO  2013-12-18 15:59:21,901 ThreadManagerImpl:initialize - Initializing task: TurnoverReferersTask
+INFO  2013-12-18 15:59:21,905 ThreadManagerImpl:initialize - Initializing task: PingQueueTask
+INFO  2013-12-18 15:59:21,909 ThreadManagerImpl:initialize - Initializing task: TestTask
+INFO  2013-12-18 15:59:21,929 IndexManagerImpl:initialize - Index initialized and ready for use.
+INFO  2013-12-18 15:59:21,940 PingConfig:initializeCommonTargets - Creating common ping target 'Technorati' from configuration properties.
+INFO  2013-12-18 15:59:21,941 PingConfig:initializeCommonTargets - Creating common ping target 'Weblogs.com' from configuration properties.
+INFO  2013-12-18 15:59:21,941 PingConfig:initializeCommonTargets - Creating common ping target 'blo.gs' from configuration properties.
+INFO  2013-12-18 15:59:21,941 PingConfig:initializeCommonTargets - Creating common ping target 'IceRocket' from configuration properties.
+INFO  2013-12-18 15:59:22,043 WebloggerImpl:initialize - Roller Weblogger business tier successfully initialized
+INFO  2013-12-18 15:59:22,043 RollerContext:initializeSecurityFeatures - Remember Me enabled: true
+INFO  2013-12-18 15:59:22,043 RollerContext:setupVelocity - Initializing Velocity
+INFO  2013-12-18 15:59:24,016 RequestMappingFilter:init - Request mapping filter initialized, 1 mappers configured.
+INFO  2013-12-18 15:59:24,017 IPBanFilter:init - INIT IPBanFilter
+INFO  2013-12-18 15:59:24,024 PageServlet:init - Initializing PageServlet
+INFO  2013-12-18 15:59:24,025 WeblogPageCache:<init> - {id=cache.weblogpage, enabled=false, timeout=3600, size=400}
+WARN  2013-12-18 15:59:24,025 WeblogPageCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:59:24,026 SiteWideCache:<init> - {id=cache.sitewide, enabled=false, timeout=1800, size=50}
+WARN  2013-12-18 15:59:24,026 SiteWideCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:59:24,026 PageServlet:init - Referrer processing enabled = false
+INFO  2013-12-18 15:59:24,028 FeedServlet:init - Initializing FeedServlet
+INFO  2013-12-18 15:59:24,029 WeblogFeedCache:<init> - {id=cache.weblogfeed, enabled=false, timeout=3600, size=200}
+WARN  2013-12-18 15:59:24,029 WeblogFeedCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:59:24,030 ResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 15:59:24,031 MediaResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 15:59:24,032 SearchServlet:init - Initializing SearchServlet
+INFO  2013-12-18 15:59:24,036 CommentServlet:init - Initializing CommentServlet
+INFO  2013-12-18 15:59:24,046 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:59:24,047 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:59:24,048 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:59:24,048 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:59:24,048 CommentServlet:init - Comment Throttling DISABLED
+INFO  2013-12-18 15:59:24,050 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:59:24,050 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:59:24,050 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:59:24,050 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:59:24,052 RSDServlet:init - Initializing RSDServlet
+INFO  2013-12-18 15:59:24,054 PlanetFeedServlet:init - Initializing PlanetRssServlet
+INFO  2013-12-18 15:59:24,055 PlanetCache:<init> - Planet cache = {id=cache.planet, enabled=false, timeout=1800, size=10}
+WARN  2013-12-18 15:59:24,055 PlanetCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 15:59:24,057 PreviewServlet:init - Initializing PreviewServlet
+INFO  2013-12-18 15:59:24,058 PreviewResourceServlet:init - Initializing PreviewResourceServlet
+INFO  2013-12-18 15:59:24,059 PreviewThemeImageServlet:init - Initializing PreviewThemeImageServlet
+WARN  2013-12-18 16:01:00,125 PingQueueProcessor:processQueue - WARNING: Skipping current ping queue processing round because we cannot yet determine the site's absolute context url.
+WARN  2013-12-18 16:06:00,075 PingQueueProcessor:processQueue - WARNING: Skipping current ping queue processing round because we cannot yet determine the site's absolute context url.
+INFO  2013-12-18 16:08:52,115 SaltCache:<init> - {id=cache.salt, enabled=true, timeout=3600, size=5000}
+INFO  2013-12-18 16:08:52,120 CacheManager:<clinit> - Cache Manager Initialized.
+INFO  2013-12-18 16:08:52,121 CacheManager:<clinit> - Cache Factory = org.apache.roller.weblogger.util.cache.ExpiringLRUCacheFactoryImpl
+INFO  2013-12-18 16:14:13,467 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 16:14:13,470 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 16:14:13,470 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 16:14:13,470 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 16:14:13,470 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 16:14:13,478 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+WARN  2013-12-18 16:14:13,609 WebloggerStartup:prepare - Failed to setup mail provider, continuing anyways.
+Reason: ERROR connecting to mail server
+INFO  2013-12-18 16:14:14,402 WebloggerFactory:bootstrap - Bootstrapping Roller Weblogger business tier
+INFO  2013-12-18 16:14:14,403 WebloggerFactory:bootstrap - Weblogger Provider = org.apache.roller.weblogger.business.GuiceWebloggerProvider
+INFO  2013-12-18 16:14:14,404 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 16:14:14,404 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 16:14:14,405 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 16:14:14,405 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 16:14:14,405 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 16:14:14,406 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+INFO  2013-12-18 16:14:14,411 JPAPersistenceStrategy:<init> - hibernate.transaction.manager_lookup_class: org.hibernate.transaction.JBossTransactionManagerLookup
+INFO  2013-12-18 16:14:14,413 JPAPersistenceStrategy:<init> - eclipselink.persistence-context.flush-mode: auto
+INFO  2013-12-18 16:14:14,413 JPAPersistenceStrategy:<init> - hibernate.transaction.factory_class: org.hibernate.transaction.JDBCTransactionFactory
+INFO  2013-12-18 16:14:14,413 JPAPersistenceStrategy:<init> - hibernate.dialect: org.hibernate.dialect.DerbyDialect
+INFO  2013-12-18 16:14:16,133 IndexManagerImpl:<init> - search enabled: true
+INFO  2013-12-18 16:14:16,133 IndexManagerImpl:<init> - index dir: C:\roller\trunk\roller_trunk\app\target\work\search-index
+INFO  2013-12-18 16:14:16,147 ReferrerQueueManagerImpl:<init> - Instantiating Referrer Queue Manager
+INFO  2013-12-18 16:14:16,148 ReferrerQueueManagerImpl:<init> - Asynchronous referrer processing = false
+INFO  2013-12-18 16:14:16,152 ThreadManagerImpl:<init> - Instantiating Thread Manager
+INFO  2013-12-18 16:14:16,157 WebloggerFactory:bootstrap - Roller Weblogger business tier successfully bootstrapped
+INFO  2013-12-18 16:14:16,157 WebloggerFactory:bootstrap -    Version: 5.1.0-SNAPSHOT
+INFO  2013-12-18 16:14:16,158 WebloggerFactory:bootstrap -    Revision: r1551915
+INFO  2013-12-18 16:14:16,158 WebloggerImpl:initialize - Initializing Roller Weblogger business tier
+INFO  2013-12-18 16:14:16,960 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.name ... setting value to [Roller Site`]
+INFO  2013-12-18 16:14:16,961 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.shortName ... setting value to [Front Page`]
+INFO  2013-12-18 16:14:16,961 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.description ... setting value to [A default install of the Roller Weblogger open source blog server`]
+INFO  2013-12-18 16:14:16,961 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.handle ... setting value to [`]
+INFO  2013-12-18 16:14:16,961 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.aggregated ... setting value to [false`]
+INFO  2013-12-18 16:14:16,961 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.adminemail ... setting value to [`]
+INFO  2013-12-18 16:14:16,962 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.absoluteurl ... setting value to [`]
+INFO  2013-12-18 16:14:16,962 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property pings.suspendPingProcessing ... setting value to [false`]
+INFO  2013-12-18 16:14:16,962 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.allowUserWeblogCreation ... setting value to [true`]
+INFO  2013-12-18 16:14:16,962 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.enabled ... setting value to [false`]
+INFO  2013-12-18 16:14:16,962 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.enabled ... setting value to [false`]
+INFO  2013-12-18 16:14:16,963 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.mail.from ... setting value to [`]
+INFO  2013-12-18 16:14:16,963 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.url ... setting value to [`]
+INFO  2013-12-18 16:14:16,963 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.editor.pages ... setting value to [editor-text.jsp,editor-rte.jsp,editor-xinha.jsp`]
+INFO  2013-12-18 16:14:16,963 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableXmlRpc ... setting value to [false`]
+INFO  2013-12-18 16:14:16,963 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableAtomPub ... setting value to [false`]
+INFO  2013-12-18 16:14:16,963 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.atomPubAuth ... setting value to [basic`]
+INFO  2013-12-18 16:14:16,964 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.pages.maxEntries ... setting value to [30`]
+INFO  2013-12-18 16:14:16,964 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.defaultEntries ... setting value to [30`]
+INFO  2013-12-18 16:14:16,964 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.styledFeeds ... setting value to [true`]
+INFO  2013-12-18 16:14:16,964 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.enabled ... setting value to [true`]
+INFO  2013-12-18 16:14:16,964 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property comments.ignoreSpam.enabled ... setting value to [false`]
+INFO  2013-12-18 16:14:16,965 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.trackbacks.enabled ... setting value to [true`]
+INFO  2013-12-18 16:14:16,965 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property trackbacks.ignoreSpam.enabled ... setting value to [true`]
+INFO  2013-12-18 16:14:16,965 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.htmlenabled ... setting value to [false`]
+INFO  2013-12-18 16:14:16,965 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.plugins ... setting value to [HTMLSubset`]
+INFO  2013-12-18 16:14:16,965 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.emailnotify ... setting value to [false`]
+INFO  2013-12-18 16:14:16,965 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.moderation.required ... setting value to [false`]
+INFO  2013-12-18 16:14:16,966 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.trackbackVerification.enabled ... setting value to [false`]
+INFO  2013-12-18 16:14:16,966 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.linkbacks.enabled ... setting value to [false`]
+INFO  2013-12-18 16:14:16,966 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.enabled ... setting value to [true`]
+INFO  2013-12-18 16:14:16,966 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.allowed ... setting value to [`]
+INFO  2013-12-18 16:14:16,966 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.forbid ... setting value to [exe`]
+INFO  2013-12-18 16:14:16,966 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.file.maxsize ... setting value to [1.00`]
+INFO  2013-12-18 16:14:16,967 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.dir.maxsize ... setting value to [4.00`]
+INFO  2013-12-18 16:14:16,967 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.themes.path ... setting value to [/themes`]
+INFO  2013-12-18 16:14:16,967 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property themes.customtheme.allowed ... setting value to [true`]
+INFO  2013-12-18 16:14:16,967 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property spam.blacklist ... setting value to [`]
+INFO  2013-12-18 16:14:17,090 ThemeManagerImpl:initialize - Loaded 5 themes from disk.
+INFO  2013-12-18 16:14:17,091 ThreadManagerImpl:initialize - Initializing task: ScheduledEntriesTask
+INFO  2013-12-18 16:14:17,114 ThreadManagerImpl:initialize - Initializing task: ResetHitCountsTask
+INFO  2013-12-18 16:14:17,119 ThreadManagerImpl:initialize - Initializing task: TurnoverReferersTask
+INFO  2013-12-18 16:14:17,124 ThreadManagerImpl:initialize - Initializing task: PingQueueTask
+INFO  2013-12-18 16:14:17,131 ThreadManagerImpl:initialize - Initializing task: TestTask
+INFO  2013-12-18 16:14:17,321 IndexManagerImpl:initialize - Index was inconsistent. Rebuilding index in the background...
+INFO  2013-12-18 16:14:17,338 PingConfig:initializeCommonTargets - Creating common ping target 'Technorati' from configuration properties.
+INFO  2013-12-18 16:14:17,339 PingConfig:initializeCommonTargets - Creating common ping target 'Weblogs.com' from configuration properties.
+INFO  2013-12-18 16:14:17,339 PingConfig:initializeCommonTargets - Creating common ping target 'blo.gs' from configuration properties.
+INFO  2013-12-18 16:14:17,340 PingConfig:initializeCommonTargets - Creating common ping target 'IceRocket' from configuration properties.
+INFO  2013-12-18 16:14:17,402 RebuildWebsiteIndexOperation:doRun - Completed rebuilding index for all users in '0.077' secs
+INFO  2013-12-18 16:14:17,475 WebloggerImpl:initialize - Roller Weblogger business tier successfully initialized
+INFO  2013-12-18 16:14:17,476 RollerContext:initializeSecurityFeatures - Remember Me enabled: true
+INFO  2013-12-18 16:14:17,476 RollerContext:setupVelocity - Initializing Velocity
+INFO  2013-12-18 16:14:19,429 RequestMappingFilter:init - Request mapping filter initialized, 1 mappers configured.
+INFO  2013-12-18 16:14:19,431 IPBanFilter:init - INIT IPBanFilter
+INFO  2013-12-18 16:14:19,438 PageServlet:init - Initializing PageServlet
+INFO  2013-12-18 16:14:19,439 WeblogPageCache:<init> - {id=cache.weblogpage, enabled=false, timeout=3600, size=400}
+WARN  2013-12-18 16:14:19,439 WeblogPageCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 16:14:19,440 SiteWideCache:<init> - {id=cache.sitewide, enabled=false, timeout=1800, size=50}
+WARN  2013-12-18 16:14:19,440 SiteWideCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 16:14:19,440 PageServlet:init - Referrer processing enabled = false
+INFO  2013-12-18 16:14:19,442 FeedServlet:init - Initializing FeedServlet
+INFO  2013-12-18 16:14:19,442 WeblogFeedCache:<init> - {id=cache.weblogfeed, enabled=false, timeout=3600, size=200}
+WARN  2013-12-18 16:14:19,443 WeblogFeedCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 16:14:19,444 ResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 16:14:19,445 MediaResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 16:14:19,446 SearchServlet:init - Initializing SearchServlet
+INFO  2013-12-18 16:14:19,451 CommentServlet:init - Initializing CommentServlet
+INFO  2013-12-18 16:14:19,463 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 16:14:19,464 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 16:14:19,465 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 16:14:19,465 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 16:14:19,465 CommentServlet:init - Comment Throttling DISABLED
+INFO  2013-12-18 16:14:19,467 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 16:14:19,467 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 16:14:19,468 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 16:14:19,468 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 16:14:19,470 RSDServlet:init - Initializing RSDServlet
+INFO  2013-12-18 16:14:19,473 PlanetFeedServlet:init - Initializing PlanetRssServlet
+INFO  2013-12-18 16:14:19,474 PlanetCache:<init> - Planet cache = {id=cache.planet, enabled=false, timeout=1800, size=10}
+WARN  2013-12-18 16:14:19,474 PlanetCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 16:14:19,477 PreviewServlet:init - Initializing PreviewServlet
+INFO  2013-12-18 16:14:19,478 PreviewResourceServlet:init - Initializing PreviewResourceServlet
+INFO  2013-12-18 16:14:19,480 PreviewThemeImageServlet:init - Initializing PreviewThemeImageServlet
+WARN  2013-12-18 16:16:00,114 PingQueueProcessor:processQueue - WARNING: Skipping current ping queue processing round because we cannot yet determine the site's absolute context url.
+INFO  2013-12-18 16:19:08,901 SaltCache:<init> - {id=cache.salt, enabled=true, timeout=3600, size=5000}
+INFO  2013-12-18 16:19:08,906 CacheManager:<clinit> - Cache Manager Initialized.
+INFO  2013-12-18 16:19:08,906 CacheManager:<clinit> - Cache Factory = org.apache.roller.weblogger.util.cache.ExpiringLRUCacheFactoryImpl
+INFO  2013-12-18 16:27:23,095 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 16:27:23,098 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 16:27:23,098 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 16:27:23,098 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 16:27:23,099 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 16:27:23,107 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+WARN  2013-12-18 16:27:23,252 WebloggerStartup:prepare - Failed to setup mail provider, continuing anyways.
+Reason: ERROR connecting to mail server
+INFO  2013-12-18 16:27:24,003 WebloggerFactory:bootstrap - Bootstrapping Roller Weblogger business tier
+INFO  2013-12-18 16:27:24,003 WebloggerFactory:bootstrap - Weblogger Provider = org.apache.roller.weblogger.business.GuiceWebloggerProvider
+INFO  2013-12-18 16:27:24,005 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 16:27:24,006 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 16:27:24,006 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb;create=true
+INFO  2013-12-18 16:27:24,006 DatabaseProvider:successMessage - -- Using JDBC username: app
+INFO  2013-12-18 16:27:24,006 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 16:27:24,007 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+INFO  2013-12-18 16:27:24,013 JPAPersistenceStrategy:<init> - hibernate.transaction.manager_lookup_class: org.hibernate.transaction.JBossTransactionManagerLookup
+INFO  2013-12-18 16:27:24,015 JPAPersistenceStrategy:<init> - eclipselink.persistence-context.flush-mode: auto
+INFO  2013-12-18 16:27:24,015 JPAPersistenceStrategy:<init> - hibernate.transaction.factory_class: org.hibernate.transaction.JDBCTransactionFactory
+INFO  2013-12-18 16:27:24,015 JPAPersistenceStrategy:<init> - hibernate.dialect: org.hibernate.dialect.DerbyDialect
+INFO  2013-12-18 16:27:26,070 IndexManagerImpl:<init> - search enabled: true
+INFO  2013-12-18 16:27:26,070 IndexManagerImpl:<init> - index dir: C:\roller\trunk\roller_trunk\app\target\work\search-index
+INFO  2013-12-18 16:27:26,083 ReferrerQueueManagerImpl:<init> - Instantiating Referrer Queue Manager
+INFO  2013-12-18 16:27:26,084 ReferrerQueueManagerImpl:<init> - Asynchronous referrer processing = false
+INFO  2013-12-18 16:27:26,087 ThreadManagerImpl:<init> - Instantiating Thread Manager
+INFO  2013-12-18 16:27:26,093 WebloggerFactory:bootstrap - Roller Weblogger business tier successfully bootstrapped
+INFO  2013-12-18 16:27:26,093 WebloggerFactory:bootstrap -    Version: 5.1.0-SNAPSHOT
+INFO  2013-12-18 16:27:26,093 WebloggerFactory:bootstrap -    Revision: r1551915
+INFO  2013-12-18 16:27:26,093 WebloggerImpl:initialize - Initializing Roller Weblogger business tier
+INFO  2013-12-18 16:27:26,900 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.name ... setting value to [Roller Site`]
+INFO  2013-12-18 16:27:26,900 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.shortName ... setting value to [Front Page`]
+INFO  2013-12-18 16:27:26,900 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.description ... setting value to [A default install of the Roller Weblogger open source blog server`]
+INFO  2013-12-18 16:27:26,900 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.handle ... setting value to [`]
+INFO  2013-12-18 16:27:26,901 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.aggregated ... setting value to [false`]
+INFO  2013-12-18 16:27:26,901 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.adminemail ... setting value to [`]
+INFO  2013-12-18 16:27:26,901 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.absoluteurl ... setting value to [`]
+INFO  2013-12-18 16:27:26,901 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property pings.suspendPingProcessing ... setting value to [false`]
+INFO  2013-12-18 16:27:26,901 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.allowUserWeblogCreation ... setting value to [true`]
+INFO  2013-12-18 16:27:26,902 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.enabled ... setting value to [false`]
+INFO  2013-12-18 16:27:26,902 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.enabled ... setting value to [false`]
+INFO  2013-12-18 16:27:26,902 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.mail.from ... setting value to [`]
+INFO  2013-12-18 16:27:26,902 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.url ... setting value to [`]
+INFO  2013-12-18 16:27:26,902 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.editor.pages ... setting value to [editor-text.jsp,editor-rte.jsp,editor-xinha.jsp`]
+INFO  2013-12-18 16:27:26,902 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableXmlRpc ... setting value to [false`]
+INFO  2013-12-18 16:27:26,903 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableAtomPub ... setting value to [false`]
+INFO  2013-12-18 16:27:26,903 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.atomPubAuth ... setting value to [basic`]
+INFO  2013-12-18 16:27:26,903 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.pages.maxEntries ... setting value to [30`]
+INFO  2013-12-18 16:27:26,903 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.defaultEntries ... setting value to [30`]
+INFO  2013-12-18 16:27:26,903 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.styledFeeds ... setting value to [true`]
+INFO  2013-12-18 16:27:26,904 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.enabled ... setting value to [true`]
+INFO  2013-12-18 16:27:26,904 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property comments.ignoreSpam.enabled ... setting value to [false`]
+INFO  2013-12-18 16:27:26,904 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.trackbacks.enabled ... setting value to [true`]
+INFO  2013-12-18 16:27:26,904 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property trackbacks.ignoreSpam.enabled ... setting value to [true`]
+INFO  2013-12-18 16:27:26,904 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.htmlenabled ... setting value to [false`]
+INFO  2013-12-18 16:27:26,905 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.plugins ... setting value to [HTMLSubset`]
+INFO  2013-12-18 16:27:26,905 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.emailnotify ... setting value to [false`]
+INFO  2013-12-18 16:27:26,905 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.moderation.required ... setting value to [false`]
+INFO  2013-12-18 16:27:26,905 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.trackbackVerification.enabled ... setting value to [false`]
+INFO  2013-12-18 16:27:26,905 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.linkbacks.enabled ... setting value to [false`]
+INFO  2013-12-18 16:27:26,905 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.enabled ... setting value to [true`]
+INFO  2013-12-18 16:27:26,906 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.allowed ... setting value to [`]
+INFO  2013-12-18 16:27:26,906 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.forbid ... setting value to [exe`]
+INFO  2013-12-18 16:27:26,906 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.file.maxsize ... setting value to [1.00`]
+INFO  2013-12-18 16:27:26,906 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.dir.maxsize ... setting value to [4.00`]
+INFO  2013-12-18 16:27:26,906 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.themes.path ... setting value to [/themes`]
+INFO  2013-12-18 16:27:26,906 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property themes.customtheme.allowed ... setting value to [true`]
+INFO  2013-12-18 16:27:26,907 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property spam.blacklist ... setting value to [`]
+INFO  2013-12-18 16:27:27,005 ThemeManagerImpl:initialize - Loaded 5 themes from disk.
+INFO  2013-12-18 16:27:27,005 ThreadManagerImpl:initialize - Initializing task: ScheduledEntriesTask
+INFO  2013-12-18 16:27:27,028 ThreadManagerImpl:initialize - Initializing task: ResetHitCountsTask
+INFO  2013-12-18 16:27:27,032 ThreadManagerImpl:initialize - Initializing task: TurnoverReferersTask
+INFO  2013-12-18 16:27:27,037 ThreadManagerImpl:initialize - Initializing task: PingQueueTask
+INFO  2013-12-18 16:27:27,042 ThreadManagerImpl:initialize - Initializing task: TestTask
+INFO  2013-12-18 16:27:27,070 IndexManagerImpl:initialize - Index initialized and ready for use.
+INFO  2013-12-18 16:27:27,083 PingConfig:initializeCommonTargets - Creating common ping target 'Technorati' from configuration properties.
+INFO  2013-12-18 16:27:27,083 PingConfig:initializeCommonTargets - Creating common ping target 'Weblogs.com' from configuration properties.
+INFO  2013-12-18 16:27:27,084 PingConfig:initializeCommonTargets - Creating common ping target 'blo.gs' from configuration properties.
+INFO  2013-12-18 16:27:27,084 PingConfig:initializeCommonTargets - Creating common ping target 'IceRocket' from configuration properties.
+INFO  2013-12-18 16:27:27,223 WebloggerImpl:initialize - Roller Weblogger business tier successfully initialized
+INFO  2013-12-18 16:27:27,223 RollerContext:initializeSecurityFeatures - Remember Me enabled: true
+INFO  2013-12-18 16:27:27,223 RollerContext:setupVelocity - Initializing Velocity
+INFO  2013-12-18 16:27:29,578 RequestMappingFilter:init - Request mapping filter initialized, 1 mappers configured.
+INFO  2013-12-18 16:27:29,582 IPBanFilter:init - INIT IPBanFilter
+INFO  2013-12-18 16:27:29,596 PageServlet:init - Initializing PageServlet
+INFO  2013-12-18 16:27:29,597 WeblogPageCache:<init> - {id=cache.weblogpage, enabled=false, timeout=3600, size=400}
+WARN  2013-12-18 16:27:29,597 WeblogPageCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 16:27:29,598 SiteWideCache:<init> - {id=cache.sitewide, enabled=false, timeout=1800, size=50}
+WARN  2013-12-18 16:27:29,599 SiteWideCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 16:27:29,600 PageServlet:init - Referrer processing enabled = false
+INFO  2013-12-18 16:27:29,602 FeedServlet:init - Initializing FeedServlet
+INFO  2013-12-18 16:27:29,603 WeblogFeedCache:<init> - {id=cache.weblogfeed, enabled=false, timeout=3600, size=200}
+WARN  2013-12-18 16:27:29,603 WeblogFeedCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 16:27:29,604 ResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 16:27:29,605 MediaResourceServlet:init - Initializing ResourceServlet
+INFO  2013-12-18 16:27:29,607 SearchServlet:init - Initializing SearchServlet
+INFO  2013-12-18 16:27:29,613 CommentServlet:init - Initializing CommentServlet
+INFO  2013-12-18 16:27:29,626 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 16:27:29,627 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 16:27:29,628 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 16:27:29,628 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 16:27:29,628 CommentServlet:init - Comment Throttling DISABLED
+INFO  2013-12-18 16:27:29,631 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 16:27:29,632 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 16:27:29,632 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 16:27:29,632 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 16:27:29,635 RSDServlet:init - Initializing RSDServlet
+INFO  2013-12-18 16:27:29,638 PlanetFeedServlet:init - Initializing PlanetRssServlet
+INFO  2013-12-18 16:27:29,639 PlanetCache:<init> - Planet cache = {id=cache.planet, enabled=false, timeout=1800, size=10}
+WARN  2013-12-18 16:27:29,640 PlanetCache:<init> - Caching has been DISABLED
+INFO  2013-12-18 16:27:29,645 PreviewServlet:init - Initializing PreviewServlet
+INFO  2013-12-18 16:27:29,647 PreviewResourceServlet:init - Initializing PreviewResourceServlet
+INFO  2013-12-18 16:27:29,649 PreviewThemeImageServlet:init - Initializing PreviewThemeImageServlet
+INFO  2013-12-18 16:27:51,358 SaltCache:<init> - {id=cache.salt, enabled=true, timeout=3600, size=5000}
+INFO  2013-12-18 16:27:51,362 CacheManager:<clinit> - Cache Manager Initialized.
+INFO  2013-12-18 16:27:51,363 CacheManager:<clinit> - Cache Factory = org.apache.roller.weblogger.util.cache.ExpiringLRUCacheFactoryImpl

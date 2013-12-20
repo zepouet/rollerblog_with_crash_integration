@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1513719/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/core
+END
+CreateWeblogPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1510094/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/core/CreateWeblogPage.java
+END
+RegisterPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1510094/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/core/RegisterPage.java
+END
+LoginPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1510094/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/core/LoginPage.java
+END
+MainMenuPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1510094/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/core/MainMenuPage.java
+END
+WelcomePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1511450/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/core/WelcomePage.java
+END
+SetupPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1513719/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/core/SetupPage.java
+END

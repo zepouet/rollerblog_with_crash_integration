@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1546770/roller/trunk/app/src/main/java/org/apache/roller/planet/business/fetcher
+END
+FetcherException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/business/fetcher/FetcherException.java
+END
+FeedFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/planet/business/fetcher/FeedFetcher.java
+END
+RomeFeedFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1546770/roller/trunk/app/src/main/java/org/apache/roller/planet/business/fetcher/RomeFeedFetcher.java
+END

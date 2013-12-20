@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core
+END
+RollerSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/RollerSession.java
+END
+RollerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/RollerContext.java
+END
+CmaRollerContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1517033/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/CmaRollerContext.java
+END

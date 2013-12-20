@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments
+END
+BlacklistCommentValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/BlacklistCommentValidator.java
+END
+DefaultCommentAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/DefaultCommentAuthenticator.java
+END
+ExcessLinksCommentValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/ExcessLinksCommentValidator.java
+END
+AkismetCommentValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/AkismetCommentValidator.java
+END
+MathCommentAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/MathCommentAuthenticator.java
+END
+CommentValidationManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/CommentValidationManager.java
+END
+CommentValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/CommentValidator.java
+END
+CommentAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/CommentAuthenticator.java
+END
+TrackbackLinkbackCommentValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/TrackbackLinkbackCommentValidator.java
+END
+ExcessSizeCommentValidator.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/ExcessSizeCommentValidator.java
+END
+LdapCommentAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/plugins/comments/LdapCommentAuthenticator.java
+END

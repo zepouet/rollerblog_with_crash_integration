@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1517951/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor
+END
+EntryAdd-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/EntryAdd-validation.xml
+END
+BookmarkEdit-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/BookmarkEdit-validation.xml
+END
+BookmarkAdd-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/BookmarkAdd-validation.xml
+END
+editor-menu.xml
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1517951/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/editor-menu.xml
+END
+FolderEdit-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/FolderEdit-validation.xml
+END
+TemplateEdit-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/TemplateEdit-validation.xml
+END
+CategoryEdit-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/CategoryEdit-validation.xml
+END
+FolderAdd-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/FolderAdd-validation.xml
+END
+MediaFileEdit-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/MediaFileEdit-validation.xml
+END
+WeblogConfig-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/WeblogConfig-validation.xml
+END
+CategoryAdd-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/CategoryAdd-validation.xml
+END
+EntryEdit-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/EntryEdit-validation.xml
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/editor/package.html
+END

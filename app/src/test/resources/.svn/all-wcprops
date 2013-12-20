@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/asf/!svn/ver/1516294/roller/trunk/app/src/test/resources
+END
+jndi.properties
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/jndi.properties
+END
+webdefault.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/webdefault.xml
+END
+roller-custom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1507753/roller/trunk/app/src/test/resources/roller-custom.properties
+END
+blacklist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/blacklist.txt
+END
+hawk.jpg
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/hawk.jpg
+END
+commons-logging.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/commons-logging.properties
+END
+roller-jettyrun.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1516294/roller/trunk/app/src/test/resources/roller-jettyrun.properties
+END
+bookmarks.opml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/bookmarks.opml
+END
+jetty.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/asf/!svn/ver/1508898/roller/trunk/app/src/test/resources/jetty.xml
+END

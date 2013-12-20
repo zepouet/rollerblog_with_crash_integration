@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core
+END
+Profile.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/Profile.java
+END
+Setup.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/Setup.java
+END
+CreateWeblog.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/CreateWeblog.java
+END
+Register.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1520821/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/Register.java
+END
+Install.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1512325/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/Install.java
+END
+ProfileBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/ProfileBean.java
+END
+Login.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1511450/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/Login.java
+END
+CreateWeblogBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/CreateWeblogBean.java
+END
+MainMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1519874/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/MainMenu.java
+END
+OAuthAuthorize.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/OAuthAuthorize.java
+END
+OAuthKeys.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/core/OAuthKeys.java
+END

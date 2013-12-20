@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/referrers
+END
+IncomingReferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/referrers/IncomingReferrer.java
+END
+ReferrerProcessingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/referrers/ReferrerProcessingJob.java
+END
+RefererManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/referrers/RefererManager.java
+END
+ReferrerQueueManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/referrers/ReferrerQueueManager.java
+END
+QueuedReferrerProcessingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/referrers/QueuedReferrerProcessingJob.java
+END
+ReferrerQueueManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/referrers/ReferrerQueueManagerImpl.java
+END

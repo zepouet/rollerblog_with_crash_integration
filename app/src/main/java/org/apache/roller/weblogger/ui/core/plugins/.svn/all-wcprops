@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/plugins
+END
+UIPluginManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/plugins/UIPluginManager.java
+END
+WeblogEntryEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/plugins/WeblogEntryEditor.java
+END
+UIPluginManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/plugins/UIPluginManagerImpl.java
+END
+TextEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1504435/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/plugins/TextEditor.java
+END
+XinhaEditor.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/plugins/XinhaEditor.java
+END

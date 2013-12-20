@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/bsf
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/bsf/README.txt
+END
+ant.properties
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/bsf/ant.properties
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/bsf/build.xml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1512325/roller/trunk/app/src/main/java/org/apache/roller/weblogger/planet/tasks
+END
+RefreshRollerPlanetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1512325/roller/trunk/app/src/main/java/org/apache/roller/weblogger/planet/tasks/RefreshRollerPlanetTask.java
+END
+SyncWebsitesTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/planet/tasks/SyncWebsitesTask.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1502743/roller/trunk/app/src/main/webapp/META-INF
+END
+MANIFEST.MF
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/META-INF/MANIFEST.MF
+END
+context.xml-example
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1502743/roller/trunk/app/src/main/webapp/META-INF/context.xml-example
+END
+org.apache.commons.logging.LogFactory
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/META-INF/org.apache.commons.logging.LogFactory
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1498037/roller/trunk/app/src/test/java/org/apache/roller/planet/business
+END
+GroupBasicTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1498037/roller/trunk/app/src/test/java/org/apache/roller/planet/business/GroupBasicTests.java
+END
+GroupFunctionalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/GroupFunctionalTests.java
+END
+EntryBasicTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/EntryBasicTests.java
+END
+EntryFunctionalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/EntryFunctionalTests.java
+END
+RomeFeedFetcherTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/RomeFeedFetcherTest.java
+END
+PlanetBasicTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/PlanetBasicTests.java
+END
+PlanetFunctionalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/PlanetFunctionalTests.java
+END
+SubscriptionBasicTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/SubscriptionBasicTests.java
+END
+SubscriptionFunctionalTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/SubscriptionFunctionalTests.java
+END
+SingleThreadedFeedUpdaterTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/SingleThreadedFeedUpdaterTest.java
+END
+PropertiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/PropertiesTest.java
+END
+PlanetTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/planet/business/PlanetTestSuite.java
+END

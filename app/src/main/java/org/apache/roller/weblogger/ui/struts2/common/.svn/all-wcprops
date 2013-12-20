@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1519237/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/common
+END
+PingTargetsBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1519237/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/common/PingTargetsBase.java
+END
+PingTargetEditBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1519237/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/common/PingTargetEditBase.java
+END
+PingTargetAddBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/common/PingTargetAddBase.java
+END
+PingTargetFormBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/common/PingTargetFormBean.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/core
+END
+Profile-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/core/Profile-validation.xml
+END
+CreateWeblog-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/core/CreateWeblog-validation.xml
+END
+Register-validation.xml
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1493780/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/core/Register-validation.xml
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/struts2/core/package.html
+END

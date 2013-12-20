@@ -1,0 +1,6 @@
+K 13
+svn:mergeinfo
+V 289
+/roller/branches/roller_mediablogging/apps/weblogger/src/java/org/apache/roller/weblogger/planet/business/PlanetURLStrategy.java:713070-782269
+/roller/branches/roller_mobile/weblogger-business/src/main/java/org/apache/roller/weblogger/planet/business/PlanetURLStrategy.java:1139921-1160032
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger
+END
+TestUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1549969/roller/trunk/app/src/main/java/org/apache/roller/weblogger/TestUtils.java
+END
+WebloggerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/WebloggerException.java
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/org/apache/roller/planet/config
+END
+planet.properties
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/org/apache/roller/planet/config/planet.properties
+END
+planetRuntimeConfigDefs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/org/apache/roller/planet/config/planetRuntimeConfigDefs.xml
+END

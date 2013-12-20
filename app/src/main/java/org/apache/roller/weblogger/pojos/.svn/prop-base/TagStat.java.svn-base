@@ -1,0 +1,18 @@
+K 13
+svn:eol-style
+V 6
+native
+K 12
+svn:keywords
+V 31
+Date Author Id Revision HeadURL
+K 13
+svn:mergeinfo
+V 249
+/roller/branches/roller_mediablogging/apps/weblogger/src/java/org/apache/roller/weblogger/pojos/TagStat.java:713070-782269
+/roller/branches/roller_mobile/weblogger-business/src/main/java/org/apache/roller/weblogger/pojos/TagStat.java:1139921-1160032
+K 13
+svn:mime-type
+V 10
+text/plain
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/security
+END
+AutoProvision.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1504827/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/security/AutoProvision.java
+END
+BasicUserAutoProvision.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1513259/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/security/BasicUserAutoProvision.java
+END
+CustomUserRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/security/CustomUserRegistry.java
+END
+RollerUserDetails.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1513259/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/security/RollerUserDetails.java
+END
+RollerUserDetailsService.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1516294/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/security/RollerUserDetailsService.java
+END
+AuthoritiesPopulator.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1513259/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/core/security/AuthoritiesPopulator.java
+END

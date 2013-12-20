@@ -1,0 +1,6 @@
+K 13
+svn:mergeinfo
+V 284
+/roller/branches/roller_mediablogging/apps/weblogger/src/java/org/apache/roller/weblogger/pojos/OAuthAccessorRecord.orm.xml:713070-782269
+/roller/branches/roller_mobile/weblogger-business/src/main/resources/org/apache/roller/weblogger/pojos/OAuthAccessorRecord.orm.xml:1139921-1160032
+END

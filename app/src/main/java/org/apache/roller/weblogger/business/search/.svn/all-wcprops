@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search
+END
+FieldConstants.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1508629/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/FieldConstants.java
+END
+IndexManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/IndexManager.java
+END
+IndexManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1520831/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/IndexManagerImpl.java
+END
+IndexUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/IndexUtil.java
+END

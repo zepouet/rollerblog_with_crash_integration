@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/adminprotocol
+END
+deleteuser.gy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/adminprotocol/deleteuser.gy
+END
+createuser.gy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/adminprotocol/createuser.gy
+END
+listcollections.gy
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/adminprotocol/listcollections.gy
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/adminprotocol/README.txt
+END
+listusers.gy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/adminprotocol/listusers.gy
+END

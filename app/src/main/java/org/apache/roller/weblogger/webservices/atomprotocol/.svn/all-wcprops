@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1520953/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/atomprotocol
+END
+RollerAtomService.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/atomprotocol/RollerAtomService.java
+END
+RollerAtomHandlerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/atomprotocol/RollerAtomHandlerFactory.java
+END
+MediaCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1520902/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/atomprotocol/MediaCollection.java
+END
+EntryCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1520867/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/atomprotocol/EntryCollection.java
+END
+CommentCollection.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/atomprotocol/CommentCollection.java
+END
+RollerAtomHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1520953/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/atomprotocol/RollerAtomHandler.java
+END

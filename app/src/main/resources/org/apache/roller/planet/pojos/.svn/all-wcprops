@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1506595/roller/trunk/app/src/main/resources/org/apache/roller/planet/pojos
+END
+Subscription.orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1506595/roller/trunk/app/src/main/resources/org/apache/roller/planet/pojos/Subscription.orm.xml
+END
+SubscriptionEntry.orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1506595/roller/trunk/app/src/main/resources/org/apache/roller/planet/pojos/SubscriptionEntry.orm.xml
+END
+RuntimeConfigProperty.orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1506595/roller/trunk/app/src/main/resources/org/apache/roller/planet/pojos/RuntimeConfigProperty.orm.xml
+END
+PlanetGroup.orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1506595/roller/trunk/app/src/main/resources/org/apache/roller/planet/pojos/PlanetGroup.orm.xml
+END
+Planet.orm.xml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1506595/roller/trunk/app/src/main/resources/org/apache/roller/planet/pojos/Planet.orm.xml
+END

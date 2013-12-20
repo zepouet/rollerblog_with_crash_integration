@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/planet/tasks
+END
+GeneratePlanetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/planet/tasks/GeneratePlanetTask.java
+END
+RefreshPlanetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/tasks/RefreshPlanetTask.java
+END
+PlanetTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/tasks/PlanetTask.java
+END
+StaticPlanetModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/tasks/StaticPlanetModel.java
+END

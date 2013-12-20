@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi
+END
+createuser.gy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/createuser.gy
+END
+roller-custom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/roller-custom.properties
+END
+createentry.gy
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/createentry.gy
+END
+createcomment.gy
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/createcomment.gy
+END
+createblog.gy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/createblog.gy
+END
+groovy
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/groovy
+END
+checkuser.gy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/checkuser.gy
+END
+removeuser.gy
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/removeuser.gy
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/README.txt
+END
+createtestdata.gy
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/createtestdata.gy
+END
+listusers.gy
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/scripting/groovy/examples/rollerapi/listusers.gy
+END

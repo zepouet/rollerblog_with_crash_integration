@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos
+END
+WeblogEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogEntry.java
+END
+Theme.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/Theme.java
+END
+PingTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/PingTarget.java
+END
+MediaFileDirectory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/MediaFileDirectory.java
+END
+RollerPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/RollerPermission.java
+END
+GlobalPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1520867/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/GlobalPermission.java
+END
+WeblogTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogTemplate.java
+END
+User.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1545147/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/User.java
+END
+RuntimeConfigProperty.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/RuntimeConfigProperty.java
+END
+MediaFileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/MediaFileType.java
+END
+WeblogCategoryPathComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogCategoryPathComparator.java
+END
+StatCountCountComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/StatCountCountComparator.java
+END
+WeblogPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1545147/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogPermission.java
+END
+WeblogEntryWrapperComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogEntryWrapperComparator.java
+END
+WeblogThemeAssoc.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogThemeAssoc.java
+END
+ThemeTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/ThemeTemplate.java
+END
+TagStatComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/TagStatComparator.java
+END
+UserRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/UserRole.java
+END
+WeblogBookmarkFolder.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogBookmarkFolder.java
+END
+OAuthAccessorRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/OAuthAccessorRecord.java
+END
+UserAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1520867/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/UserAttribute.java
+END
+WeblogTheme.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogTheme.java
+END
+WeblogEntryTagAggregate.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1520867/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogEntryTagAggregate.java
+END
+WeblogBookmark.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1551565/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogBookmark.java
+END
+TemplateCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/TemplateCode.java
+END
+StaticThemeTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/StaticThemeTemplate.java
+END
+TagStat.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/TagStat.java
+END
+MediaFileComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/MediaFileComparator.java
+END
+TagStatCountComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/TagStatCountComparator.java
+END
+ThemeResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1504827/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/ThemeResource.java
+END
+FileContent.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/FileContent.java
+END
+Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/Template.java
+END
+TaskLock.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/TaskLock.java
+END
+MediaFileTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/MediaFileTag.java
+END
+WeblogReferrer.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogReferrer.java
+END
+WeblogCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogCategory.java
+END
+Weblog.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1549360/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/Weblog.java
+END
+MediaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/MediaFile.java
+END
+ObjectPermission.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/ObjectPermission.java
+END
+StaticTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/StaticTemplate.java
+END
+WeblogEntryComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogEntryComment.java
+END
+PingQueueEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/PingQueueEntry.java
+END
+StatCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/StatCount.java
+END
+WeblogEntryTagComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1507256/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogEntryTagComparator.java
+END
+WeblogEntryAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogEntryAttribute.java
+END
+MediaFileFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/MediaFileFilter.java
+END
+AutoPing.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1520821/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/AutoPing.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/Resource.java
+END
+WeblogThemeTemplateCode.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogThemeTemplateCode.java
+END
+OAuthConsumerRecord.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/OAuthConsumerRecord.java
+END
+MediaFileDirectoryComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/MediaFileDirectoryComparator.java
+END
+BookmarkComparator.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/BookmarkComparator.java
+END
+WeblogEntryTag.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogEntryTag.java
+END
+WeblogHitCount.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/WeblogHitCount.java
+END

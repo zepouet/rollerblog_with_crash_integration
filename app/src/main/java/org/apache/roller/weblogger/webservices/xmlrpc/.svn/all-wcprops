@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/xmlrpc
+END
+BaseAPIHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/xmlrpc/BaseAPIHandler.java
+END
+BloggerAPIHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/xmlrpc/BloggerAPIHandler.java
+END
+MetaWeblogAPIHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/xmlrpc/MetaWeblogAPIHandler.java
+END

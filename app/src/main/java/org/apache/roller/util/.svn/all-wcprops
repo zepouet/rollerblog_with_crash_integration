@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/util
+END
+ISO8601DateParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/util/ISO8601DateParser.java
+END
+RegexUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/util/RegexUtil.java
+END
+DateUtil.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/util/DateUtil.java
+END
+PropertyExpander.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/util/PropertyExpander.java
+END
+UUIDGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/util/UUIDGenerator.java
+END

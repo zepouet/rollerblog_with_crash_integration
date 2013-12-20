@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin
+END
+CacheInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/CacheInfo.java
+END
+CommonPingTargets.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1519237/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/CommonPingTargets.java
+END
+GlobalCommentManagement.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/GlobalCommentManagement.java
+END
+CreateUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/CreateUser.java
+END
+CommonPingTargetEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/CommonPingTargetEdit.java
+END
+CommonPingTargetAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/CommonPingTargetAdd.java
+END
+GlobalCommentManagementBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/GlobalCommentManagementBean.java
+END
+GlobalConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/GlobalConfig.java
+END
+ModifyUser.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1517546/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/ModifyUser.java
+END
+UserAdmin.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/UserAdmin.java
+END
+CreateUserBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/admin/CreateUserBean.java
+END

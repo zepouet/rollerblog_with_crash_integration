@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/planet/business/updater
+END
+UpdaterException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/business/updater/UpdaterException.java
+END
+FeedUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/planet/business/updater/FeedUpdater.java
+END
+SingleThreadedFeedUpdater.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/planet/business/updater/SingleThreadedFeedUpdater.java
+END

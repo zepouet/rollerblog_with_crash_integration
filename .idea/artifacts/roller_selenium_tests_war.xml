@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="roller-selenium-tests:war">
+    <output-path>$PROJECT_DIR$/it-selenium/target</output-path>
+    <root id="archive" name="roller-selenium-tests-5.1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="roller-selenium-tests:war exploded" />
+    </root>
+  </artifact>
+</component>

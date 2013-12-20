@@ -1,0 +1,336 @@
+INFO  2013-12-18 15:38:47,823 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:38:47,830 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:38:47,830 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb
+INFO  2013-12-18 15:38:47,830 DatabaseProvider:successMessage - -- Using JDBC username: APP
+INFO  2013-12-18 15:38:47,830 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:38:47,927 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+WARN  2013-12-18 15:38:48,558 WebloggerStartup:prepare - Failed to setup mail provider, continuing anyways.
+Reason: ERROR looking up mail-session with JNDI name: java:comp/env/mail/Session
+ERROR 2013-12-18 15:38:48,867 DatabaseInstaller:getDatabaseVersion - Couldn't lookup current database version
+java.sql.SQLSyntaxErrorException: Table/View 'ROLLER_PROPERTIES' does not exist.
+	at org.apache.derby.client.am.SQLExceptionFactory40.getSQLException(Unknown Source)
+	at org.apache.derby.client.am.SqlException.getSQLException(Unknown Source)
+	at org.apache.derby.client.am.Statement.executeQuery(Unknown Source)
+	at org.apache.roller.weblogger.business.startup.DatabaseInstaller.getDatabaseVersion(DatabaseInstaller.java:806)
+	at org.apache.roller.weblogger.business.startup.DatabaseInstaller.isUpgradeRequired(DatabaseInstaller.java:101)
+	at org.apache.roller.weblogger.business.startup.WebloggerStartup.prepare(WebloggerStartup.java:194)
+	at org.apache.roller.weblogger.TestUtils.setupWeblogger(TestUtils.java:63)
+	at org.apache.roller.planet.business.PropertiesTest.setUp(PropertiesTest.java:41)
+	at junit.framework.TestCase.runBare(TestCase.java:139)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.junit.internal.runners.JUnit38ClassRunner.run(JUnit38ClassRunner.java:84)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.execute(JUnit4Provider.java:264)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.executeTestSet(JUnit4Provider.java:153)
+	at org.apache.maven.surefire.junit4.JUnit4Provider.invoke(JUnit4Provider.java:124)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:200)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:153)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:103)
+Caused by: org.apache.derby.client.am.SqlException: Table/View 'ROLLER_PROPERTIES' does not exist.
+	at org.apache.derby.client.am.Statement.completeSqlca(Unknown Source)
+	at org.apache.derby.client.net.NetStatementReply.parsePrepareError(Unknown Source)
+	at org.apache.derby.client.net.NetStatementReply.parsePRPSQLSTTreply(Unknown Source)
+	at org.apache.derby.client.net.NetStatementReply.readPrepareDescribeOutput(Unknown Source)
+	at org.apache.derby.client.net.StatementReply.readPrepareDescribeOutput(Unknown Source)
+	at org.apache.derby.client.net.NetStatement.readPrepareDescribeOutput_(Unknown Source)
+	at org.apache.derby.client.am.Statement.readPrepareDescribeOutput(Unknown Source)
+	at org.apache.derby.client.am.Statement.flowExecute(Unknown Source)
+	at org.apache.derby.client.am.Statement.executeQueryX(Unknown Source)
+	... 20 more
+ERROR 2013-12-18 15:38:48,921 DatabaseInstaller:errorMessage - ERROR setting database version
+INFO  2013-12-18 15:38:49,681 WebloggerFactory:bootstrap - Bootstrapping Roller Weblogger business tier
+INFO  2013-12-18 15:38:49,682 WebloggerFactory:bootstrap - Weblogger Provider = org.apache.roller.weblogger.business.GuiceWebloggerProvider
+INFO  2013-12-18 15:38:49,683 DatabaseProvider:successMessage - SUCCESS: Got parameters. Using configuration type JDBC_PROPERTIES
+INFO  2013-12-18 15:38:49,684 DatabaseProvider:successMessage - -- Using JDBC driver class: org.apache.derby.jdbc.ClientDriver
+INFO  2013-12-18 15:38:49,684 DatabaseProvider:successMessage - -- Using JDBC connection URL: jdbc:derby://localhost:3223/memory:rollerdb
+INFO  2013-12-18 15:38:49,684 DatabaseProvider:successMessage - -- Using JDBC username: APP
+INFO  2013-12-18 15:38:49,684 DatabaseProvider:successMessage - -- Using JDBC password: [hidden]
+INFO  2013-12-18 15:38:49,686 DatabaseProvider:successMessage - SUCCESS: loaded JDBC driver class [org.apache.derby.jdbc.ClientDriver]
+INFO  2013-12-18 15:38:49,692 JPAPersistenceStrategy:<init> - hibernate.transaction.manager_lookup_class: org.hibernate.transaction.JBossTransactionManagerLookup
+INFO  2013-12-18 15:38:49,692 JPAPersistenceStrategy:<init> - eclipselink.persistence-context.flush-mode: auto
+INFO  2013-12-18 15:38:49,693 JPAPersistenceStrategy:<init> - hibernate.transaction.factory_class: org.hibernate.transaction.JDBCTransactionFactory
+INFO  2013-12-18 15:38:49,694 JPAPersistenceStrategy:<init> - hibernate.dialect: org.hibernate.dialect.DerbyDialect
+INFO  2013-12-18 15:38:52,072 IndexManagerImpl:<init> - search enabled: true
+INFO  2013-12-18 15:38:52,072 IndexManagerImpl:<init> - index dir: C:\roller\trunk\roller_trunk\app\target\test-classes\index
+INFO  2013-12-18 15:38:52,087 ReferrerQueueManagerImpl:<init> - Instantiating Referrer Queue Manager
+INFO  2013-12-18 15:38:52,087 ReferrerQueueManagerImpl:<init> - Asynchronous referrer processing = false
+INFO  2013-12-18 15:38:52,090 ThreadManagerImpl:<init> - Instantiating Thread Manager
+INFO  2013-12-18 15:38:52,101 WebloggerFactory:bootstrap - Roller Weblogger business tier successfully bootstrapped
+INFO  2013-12-18 15:38:52,101 WebloggerFactory:bootstrap -    Version: 5.1.0-SNAPSHOT
+INFO  2013-12-18 15:38:52,101 WebloggerFactory:bootstrap -    Revision: r1551915
+INFO  2013-12-18 15:38:52,101 WebloggerImpl:initialize - Initializing Roller Weblogger business tier
+INFO  2013-12-18 15:38:53,529 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.name ... setting value to [Roller Site`]
+INFO  2013-12-18 15:38:53,529 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.shortName ... setting value to [Front Page`]
+INFO  2013-12-18 15:38:53,529 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.description ... setting value to [A default install of the Roller Weblogger open source blog server`]
+INFO  2013-12-18 15:38:53,529 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.handle ... setting value to [`]
+INFO  2013-12-18 15:38:53,529 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.frontpage.weblog.aggregated ... setting value to [false`]
+INFO  2013-12-18 15:38:53,530 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.adminemail ... setting value to [`]
+INFO  2013-12-18 15:38:53,530 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.absoluteurl ... setting value to [`]
+INFO  2013-12-18 15:38:53,530 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property pings.suspendPingProcessing ... setting value to [false`]
+INFO  2013-12-18 15:38:53,530 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.allowUserWeblogCreation ... setting value to [true`]
+INFO  2013-12-18 15:38:53,530 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.enabled ... setting value to [false`]
+INFO  2013-12-18 15:38:53,530 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.enabled ... setting value to [false`]
+INFO  2013-12-18 15:38:53,530 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property user.account.activation.mail.from ... setting value to [`]
+INFO  2013-12-18 15:38:53,530 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.registration.url ... setting value to [`]
+INFO  2013-12-18 15:38:53,530 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.editor.pages ... setting value to [editor-text.jsp,editor-rte.jsp,editor-xinha.jsp`]
+INFO  2013-12-18 15:38:53,531 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableXmlRpc ... setting value to [false`]
+INFO  2013-12-18 15:38:53,531 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.enableAtomPub ... setting value to [false`]
+INFO  2013-12-18 15:38:53,531 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property webservices.atomPubAuth ... setting value to [basic`]
+INFO  2013-12-18 15:38:53,531 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.pages.maxEntries ... setting value to [30`]
+INFO  2013-12-18 15:38:53,531 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.defaultEntries ... setting value to [30`]
+INFO  2013-12-18 15:38:53,531 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.newsfeeds.styledFeeds ... setting value to [true`]
+INFO  2013-12-18 15:38:53,531 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.enabled ... setting value to [true`]
+INFO  2013-12-18 15:38:53,531 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property comments.ignoreSpam.enabled ... setting value to [false`]
+INFO  2013-12-18 15:38:53,531 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.trackbacks.enabled ... setting value to [true`]
+INFO  2013-12-18 15:38:53,532 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property trackbacks.ignoreSpam.enabled ... setting value to [true`]
+INFO  2013-12-18 15:38:53,532 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.htmlenabled ... setting value to [false`]
+INFO  2013-12-18 15:38:53,532 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.plugins ... setting value to [HTMLSubset`]
+INFO  2013-12-18 15:38:53,532 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.comments.emailnotify ... setting value to [false`]
+INFO  2013-12-18 15:38:53,532 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.moderation.required ... setting value to [false`]
+INFO  2013-12-18 15:38:53,532 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.trackbackVerification.enabled ... setting value to [false`]
+INFO  2013-12-18 15:38:53,532 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property site.linkbacks.enabled ... setting value to [false`]
+INFO  2013-12-18 15:38:53,532 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.enabled ... setting value to [true`]
+INFO  2013-12-18 15:38:53,532 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.allowed ... setting value to [`]
+INFO  2013-12-18 15:38:53,533 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.types.forbid ... setting value to [exe`]
+INFO  2013-12-18 15:38:53,533 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.file.maxsize ... setting value to [1.00`]
+INFO  2013-12-18 15:38:53,533 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property uploads.dir.maxsize ... setting value to [4.00`]
+INFO  2013-12-18 15:38:53,533 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property users.themes.path ... setting value to [/themes`]
+INFO  2013-12-18 15:38:53,533 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property themes.customtheme.allowed ... setting value to [true`]
+INFO  2013-12-18 15:38:53,533 JPAPropertiesManagerImpl:initializeMissingProps - Found uninitialized property spam.blacklist ... setting value to [`]
+INFO  2013-12-18 15:38:53,631 ThemeManagerImpl:initialize - Loaded 5 themes from disk.
+INFO  2013-12-18 15:38:53,631 ThreadManagerImpl:initialize - Initializing task: ScheduledEntriesTask
+INFO  2013-12-18 15:38:53,665 ThreadManagerImpl:initialize - Initializing task: ResetHitCountsTask
+INFO  2013-12-18 15:38:53,671 ThreadManagerImpl:initialize - Initializing task: TurnoverReferersTask
+INFO  2013-12-18 15:38:53,677 ThreadManagerImpl:initialize - Initializing task: PingQueueTask
+INFO  2013-12-18 15:38:53,685 ThreadManagerImpl:initialize - Initializing task: TestTask
+INFO  2013-12-18 15:38:53,942 IndexManagerImpl:initialize - Index was inconsistent. Rebuilding index in the background...
+INFO  2013-12-18 15:38:53,959 PingConfig:initializeCommonTargets - Creating common ping target 'Technorati' from configuration properties.
+INFO  2013-12-18 15:38:53,960 PingConfig:initializeCommonTargets - Creating common ping target 'Weblogs.com' from configuration properties.
+INFO  2013-12-18 15:38:53,960 PingConfig:initializeCommonTargets - Creating common ping target 'blo.gs' from configuration properties.
+INFO  2013-12-18 15:38:53,960 PingConfig:initializeCommonTargets - Creating common ping target 'IceRocket' from configuration properties.
+INFO  2013-12-18 15:38:54,081 RebuildWebsiteIndexOperation:doRun - Completed rebuilding index for all users in '0.136' secs
+INFO  2013-12-18 15:38:54,215 WebloggerImpl:initialize - Roller Weblogger business tier successfully initialized
+INFO  2013-12-18 15:38:57,984 CommentTest:testCommentParentDeletes - BEGIN
+INFO  2013-12-18 15:38:58,257 CommentTest:testCommentParentDeletes - END
+INFO  2013-12-18 15:38:59,344 FolderCRUDTest:setUp - BEGIN
+INFO  2013-12-18 15:38:59,404 FolderCRUDTest:setUp - END
+INFO  2013-12-18 15:38:59,404 FolderCRUDTest:testFolderCascadingDelete - BEGIN
+INFO  2013-12-18 15:38:59,453 FolderCRUDTest:testFolderCascadingDelete - END
+INFO  2013-12-18 15:38:59,453 FolderCRUDTest:tearDown - BEGIN
+INFO  2013-12-18 15:38:59,532 FolderCRUDTest:tearDown - END
+INFO  2013-12-18 15:38:59,533 FolderCRUDTest:setUp - BEGIN
+INFO  2013-12-18 15:38:59,600 FolderCRUDTest:setUp - END
+INFO  2013-12-18 15:38:59,600 FolderCRUDTest:testBasicCRUD - BEGIN
+INFO  2013-12-18 15:38:59,675 FolderCRUDTest:testBasicCRUD - END
+INFO  2013-12-18 15:38:59,675 FolderCRUDTest:tearDown - BEGIN
+INFO  2013-12-18 15:38:59,768 FolderCRUDTest:tearDown - END
+INFO  2013-12-18 15:38:59,769 FolderCRUDTest:setUp - BEGIN
+INFO  2013-12-18 15:38:59,840 FolderCRUDTest:setUp - END
+INFO  2013-12-18 15:38:59,841 FolderCRUDTest:testFolderEquality - BEGIN
+INFO  2013-12-18 15:38:59,847 FolderCRUDTest:testFolderEquality - END
+INFO  2013-12-18 15:38:59,847 FolderCRUDTest:tearDown - BEGIN
+INFO  2013-12-18 15:38:59,928 FolderCRUDTest:tearDown - END
+INFO  2013-12-18 15:38:59,931 FolderFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:00,035 FolderFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:00,035 FolderFunctionalityTest:testLookupAllFoldersByWeblog - BEGIN
+INFO  2013-12-18 15:39:00,046 FolderFunctionalityTest:testLookupAllFoldersByWeblog - END
+INFO  2013-12-18 15:39:00,046 FolderFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:00,124 FolderFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:00,124 FolderFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:00,286 FolderFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:00,286 FolderFunctionalityTest:testWalkFolderTree - BEGIN
+INFO  2013-12-18 15:39:00,293 FolderFunctionalityTest:testWalkFolderTree - END
+INFO  2013-12-18 15:39:00,293 FolderFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:00,409 FolderFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:00,409 FolderFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:00,548 FolderFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:00,549 FolderFunctionalityTest:testHasFolder - BEGIN
+INFO  2013-12-18 15:39:00,553 FolderFunctionalityTest:testHasFolder - END
+INFO  2013-12-18 15:39:00,553 FolderFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:00,631 FolderFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:00,631 FolderFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:00,776 FolderFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:00,776 FolderFunctionalityTest:testLookupFolderByPath - BEGIN
+INFO  2013-12-18 15:39:00,790 FolderFunctionalityTest:testLookupFolderByPath - END
+INFO  2013-12-18 15:39:00,791 FolderFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:00,879 FolderFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:00,881 FolderFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:01,029 FolderFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:01,030 FolderFunctionalityTest:testUniquenessOfFolderNames - BEGIN
+INFO  2013-12-18 15:39:01,039 FolderFunctionalityTest:testUniquenessOfFolderNames - END
+INFO  2013-12-18 15:39:01,039 FolderFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:01,123 FolderFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:01,123 FolderFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:01,233 FolderFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:01,233 FolderFunctionalityTest:testLookupFolderById - BEGIN
+INFO  2013-12-18 15:39:01,234 FolderFunctionalityTest:testLookupFolderById - END
+INFO  2013-12-18 15:39:01,234 FolderFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:01,382 FolderFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:01,384 FolderParentDeletesTest:setUp - BEGIN
+INFO  2013-12-18 15:39:01,448 FolderParentDeletesTest:setUp - END
+INFO  2013-12-18 15:39:01,448 FolderParentDeletesTest:testFolderParentDeletes - BEGIN
+INFO  2013-12-18 15:39:01,546 FolderParentDeletesTest:testFolderParentDeletes - END
+INFO  2013-12-18 15:39:01,546 FolderParentDeletesTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:01,555 FolderParentDeletesTest:tearDown - END
+INFO  2013-12-18 15:39:08,161 MediaFileTest:testCreateMediaFileDirectory - Before setting up weblogger
+WARN  2013-12-18 15:39:08,459 FileContentManagerImpl:deleteFile - Delete appears to have failed for [9a70a23e-9ec4-4eae-aff7-674822cba5fa]
+INFO  2013-12-18 15:39:08,514 MediaFileTest:testCreateMediaFileDirectoryByPath - Before setting up weblogger
+WARN  2013-12-18 15:39:09,244 FileContentManagerImpl:deleteFile - Delete appears to have failed for [61388a7f-73ed-4253-819c-6d31b457f59b]
+WARN  2013-12-18 15:39:09,246 FileContentManagerImpl:deleteFile - Delete appears to have failed for [d001443e-def0-42f9-98b4-616243f8d967]
+WARN  2013-12-18 15:39:09,248 FileContentManagerImpl:deleteFile - Delete appears to have failed for [7f3f6a3f-4b47-4487-9315-49d111eccd0a]
+WARN  2013-12-18 15:39:10,830 FileContentManagerImpl:deleteFile - Delete appears to have failed for [7caaf59e-354f-45bc-93c8-697f3be76e95]
+WARN  2013-12-18 15:39:11,066 FileContentManagerImpl:deleteFile - Delete appears to have failed for [a6308898-ec39-456f-83da-dd13eedf4aa2]
+WARN  2013-12-18 15:39:11,068 FileContentManagerImpl:deleteFile - Delete appears to have failed for [c755d6e9-a371-4fa1-a144-4c64640c271b]
+WARN  2013-12-18 15:39:11,312 FileContentManagerImpl:deleteFile - Delete appears to have failed for [816c68b7-25db-4a7d-9070-d9713af9f2e9]
+WARN  2013-12-18 15:39:11,313 FileContentManagerImpl:deleteFile - Delete appears to have failed for [33588c70-5c0f-46e0-8db5-7a3a2caa5f17]
+WARN  2013-12-18 15:39:11,682 FileContentManagerImpl:deleteFile - Delete appears to have failed for [1d967fa6-f281-424c-99e2-05cdbed52425]
+WARN  2013-12-18 15:39:11,684 FileContentManagerImpl:deleteFile - Delete appears to have failed for [6f8d5cb4-c82e-4596-a792-ed7354c9cf87]
+WARN  2013-12-18 15:39:11,686 FileContentManagerImpl:deleteFile - Delete appears to have failed for [1f651a2a-0856-49cf-a4b5-863a66e412d3]
+INFO  2013-12-18 15:39:11,861 JPAMediaFileManagerImpl:upgradeFileStorage - Migrating weblog: testblog1
+INFO  2013-12-18 15:39:11,950 JPAMediaFileManagerImpl:upgradeUploadsDir - 
+INFO  2013-12-18 15:39:11,962 JPAMediaFileManagerImpl:upgradeUploadsDir - 
+INFO  2013-12-18 15:39:11,973 JPAMediaFileManagerImpl:upgradeUploadsDir - 
+INFO  2013-12-18 15:39:11,980 JPAMediaFileManagerImpl:upgradeFileStorage - Migrating weblog: testblog2
+INFO  2013-12-18 15:39:11,989 JPAMediaFileManagerImpl:upgradeUploadsDir - 
+INFO  2013-12-18 15:39:11,992 JPAMediaFileManagerImpl:upgradeUploadsDir - 
+INFO  2013-12-18 15:39:12,032 JPAMediaFileManagerImpl:upgradeUploadsDir - 
+WARN  2013-12-18 15:39:12,119 FileContentManagerImpl:deleteFile - Delete appears to have failed for [e09a143a-c9af-4aef-8fd6-0b604d31542d]
+WARN  2013-12-18 15:39:12,205 FileContentManagerImpl:deleteFile - Delete appears to have failed for [0948b4ae-83a5-4a7c-a0de-c4fb860b5a4b]
+INFO  2013-12-18 15:39:12,242 PermissionTest:setUp - BEGIN
+INFO  2013-12-18 15:39:12,284 PermissionTest:setUp - END
+INFO  2013-12-18 15:39:12,284 PermissionTest:testPermissionsCRUD - BEGIN
+INFO  2013-12-18 15:39:12,327 PermissionTest:testPermissionsCRUD - END
+INFO  2013-12-18 15:39:12,327 PermissionTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:12,397 PermissionTest:tearDown - END
+INFO  2013-12-18 15:39:12,397 PermissionTest:setUp - BEGIN
+INFO  2013-12-18 15:39:12,445 PermissionTest:setUp - END
+INFO  2013-12-18 15:39:12,445 PermissionTest:testPermissionChecks - BEGIN
+INFO  2013-12-18 15:39:12,477 PermissionTest:testPermissionChecks - END
+INFO  2013-12-18 15:39:12,478 PermissionTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:12,525 PermissionTest:tearDown - END
+INFO  2013-12-18 15:39:12,526 PermissionTest:setUp - BEGIN
+INFO  2013-12-18 15:39:12,559 PermissionTest:setUp - END
+INFO  2013-12-18 15:39:12,559 PermissionTest:testPermissionsLookups - BEGIN
+INFO  2013-12-18 15:39:12,608 PermissionTest:testPermissionsLookups - END
+INFO  2013-12-18 15:39:12,608 PermissionTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:12,669 PermissionTest:tearDown - END
+INFO  2013-12-18 15:39:12,669 PermissionTest:setUp - BEGIN
+INFO  2013-12-18 15:39:12,720 PermissionTest:setUp - END
+INFO  2013-12-18 15:39:12,720 PermissionTest:testInvitations - BEGIN
+INFO  2013-12-18 15:39:12,785 PermissionTest:testInvitations - END
+INFO  2013-12-18 15:39:12,785 PermissionTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:12,845 PermissionTest:tearDown - END
+INFO  2013-12-18 15:39:13,601 SyncWebsitesTask:runTask - Syncing local weblogs with planet subscriptions list
+INFO  2013-12-18 15:39:13,676 RefreshRollerPlanetTask:runTask - Refreshing Planet subscriptions
+INFO  2013-12-18 15:39:13,737 SingleThreadedFeedUpdater:updateSubscriptions - --- DONE --- Updated subscriptions in 0.052 seconds
+INFO  2013-12-18 15:39:15,057 RefererTest:testApplyRefererFiltersWebsite - Test apply referers (weblog)
+INFO  2013-12-18 15:39:15,879 RefererTest:testApplyRefererFilters - Test apply referers (global)
+INFO  2013-12-18 15:39:16,526 WeblogCategoryCRUDTest:setUp - BEGIN
+INFO  2013-12-18 15:39:16,566 WeblogCategoryCRUDTest:setUp - END
+INFO  2013-12-18 15:39:16,567 WeblogCategoryCRUDTest:testCategoryCascadingDelete - BEGIN
+INFO  2013-12-18 15:39:16,632 WeblogCategoryCRUDTest:testCategoryCascadingDelete - END
+INFO  2013-12-18 15:39:16,632 WeblogCategoryCRUDTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:16,708 WeblogCategoryCRUDTest:tearDown - END
+INFO  2013-12-18 15:39:16,709 WeblogCategoryCRUDTest:setUp - BEGIN
+INFO  2013-12-18 15:39:16,755 WeblogCategoryCRUDTest:setUp - END
+INFO  2013-12-18 15:39:16,755 WeblogCategoryCRUDTest:testBasicCRUD - BEGIN
+INFO  2013-12-18 15:39:16,788 WeblogCategoryCRUDTest:testBasicCRUD - END
+INFO  2013-12-18 15:39:16,789 WeblogCategoryCRUDTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:16,828 WeblogCategoryCRUDTest:tearDown - END
+INFO  2013-12-18 15:39:16,829 WeblogCategoryCRUDTest:setUp - BEGIN
+INFO  2013-12-18 15:39:16,858 WeblogCategoryCRUDTest:setUp - END
+INFO  2013-12-18 15:39:16,858 WeblogCategoryCRUDTest:testWeblogCategoryEquality - BEGIN
+INFO  2013-12-18 15:39:16,861 WeblogCategoryCRUDTest:testWeblogCategoryEquality - END
+INFO  2013-12-18 15:39:16,861 WeblogCategoryCRUDTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:16,901 WeblogCategoryCRUDTest:tearDown - END
+INFO  2013-12-18 15:39:16,903 WeblogCategoryFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:16,992 WeblogCategoryFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:16,992 WeblogCategoryFunctionalityTest:testHasCategory - BEGIN
+INFO  2013-12-18 15:39:16,995 WeblogCategoryFunctionalityTest:testHasCategory - END
+INFO  2013-12-18 15:39:16,995 WeblogCategoryFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:17,037 WeblogCategoryFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:17,037 WeblogCategoryFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:17,134 WeblogCategoryFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:17,134 WeblogCategoryFunctionalityTest:testLookupCategoryById - BEGIN
+INFO  2013-12-18 15:39:17,135 WeblogCategoryFunctionalityTest:testLookupCategoryById - END
+INFO  2013-12-18 15:39:17,135 WeblogCategoryFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:17,188 WeblogCategoryFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:17,189 WeblogCategoryFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:17,286 WeblogCategoryFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:17,286 WeblogCategoryFunctionalityTest:testWalkCategoryTree - BEGIN
+INFO  2013-12-18 15:39:17,290 WeblogCategoryFunctionalityTest:testWalkCategoryTree - END
+INFO  2013-12-18 15:39:17,290 WeblogCategoryFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:17,340 WeblogCategoryFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:17,341 WeblogCategoryFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:17,442 WeblogCategoryFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:17,442 WeblogCategoryFunctionalityTest:testMoveWeblogCategoryContents - BEGIN
+INFO  2013-12-18 15:39:17,557 WeblogCategoryFunctionalityTest:testMoveWeblogCategoryContents - END
+INFO  2013-12-18 15:39:17,557 WeblogCategoryFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:17,605 WeblogCategoryFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:17,606 WeblogCategoryFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:17,694 WeblogCategoryFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:17,695 WeblogCategoryFunctionalityTest:testLookupCategoryByPath - BEGIN
+INFO  2013-12-18 15:39:17,701 WeblogCategoryFunctionalityTest:testLookupCategoryByPath - END
+INFO  2013-12-18 15:39:17,701 WeblogCategoryFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:17,741 WeblogCategoryFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:17,741 WeblogCategoryFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:17,813 WeblogCategoryFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:17,814 WeblogCategoryFunctionalityTest:testMoveWeblogCategory - BEGIN
+INFO  2013-12-18 15:39:17,927 WeblogCategoryFunctionalityTest:testMoveWeblogCategory - END
+INFO  2013-12-18 15:39:17,928 WeblogCategoryFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:18,009 WeblogCategoryFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:18,010 WeblogCategoryFunctionalityTest:setUp - BEGIN
+INFO  2013-12-18 15:39:18,124 WeblogCategoryFunctionalityTest:setUp - END
+INFO  2013-12-18 15:39:18,125 WeblogCategoryFunctionalityTest:testLookupAllCategoriesByWeblog - BEGIN
+INFO  2013-12-18 15:39:18,145 WeblogCategoryFunctionalityTest:testLookupAllCategoriesByWeblog - END
+INFO  2013-12-18 15:39:18,145 WeblogCategoryFunctionalityTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:18,220 WeblogCategoryFunctionalityTest:tearDown - END
+INFO  2013-12-18 15:39:18,221 WeblogCategoryParentDeletesTest:setUp - BEGIN
+INFO  2013-12-18 15:39:18,279 WeblogCategoryParentDeletesTest:setUp - END
+INFO  2013-12-18 15:39:18,280 WeblogCategoryParentDeletesTest:testCategoryParentDeletes - BEGIN
+INFO  2013-12-18 15:39:18,342 WeblogCategoryParentDeletesTest:testCategoryParentDeletes - END
+INFO  2013-12-18 15:39:18,343 WeblogCategoryParentDeletesTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:18,349 WeblogCategoryParentDeletesTest:tearDown - END
+INFO  2013-12-18 15:39:20,506 WeblogEntryTest:testTagAggregates - BEGIN
+INFO  2013-12-18 15:39:20,809 WeblogEntryTest:testTagAggregates - END
+INFO  2013-12-18 15:39:27,492 WeblogTest:setUp - BEGIN
+INFO  2013-12-18 15:39:27,508 WeblogTest:setUp - END
+INFO  2013-12-18 15:39:27,508 WeblogTest:testWeblogCRUD - BEGIN
+INFO  2013-12-18 15:39:27,574 WeblogTest:testWeblogCRUD - END
+INFO  2013-12-18 15:39:27,575 WeblogTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:27,580 WeblogTest:tearDown - END
+INFO  2013-12-18 15:39:27,581 WeblogTest:setUp - BEGIN
+INFO  2013-12-18 15:39:27,591 WeblogTest:setUp - END
+INFO  2013-12-18 15:39:27,592 WeblogTest:testWeblogLookups - BEGIN
+INFO  2013-12-18 15:39:27,715 WeblogTest:testWeblogLookups - END
+INFO  2013-12-18 15:39:27,715 WeblogTest:tearDown - BEGIN
+INFO  2013-12-18 15:39:27,719 WeblogTest:tearDown - END
+INFO  2013-12-18 15:39:27,733 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:39:27,733 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:39:27,734 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:39:27,734 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:39:27,774 Blacklist:<clinit> - Initializing MT Blacklist
+WARN  2013-12-18 15:39:27,775 Blacklist:loadBlacklistFromFile - Couldn't find downloaded blacklist, loaded blacklist.txt from classpath instead
+INFO  2013-12-18 15:39:27,786 Blacklist:loadBlacklistFromFile - Number of blacklist string rules: 2296
+INFO  2013-12-18 15:39:27,786 Blacklist:loadBlacklistFromFile - Number of blacklist regex rules: 15
+INFO  2013-12-18 15:39:28,060 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:39:28,060 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:39:28,061 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:39:28,061 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:39:28,196 CommentValidationManager:<init> - Configured CommentValidator: Blacklist Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.BlacklistCommentValidator
+INFO  2013-12-18 15:39:28,196 CommentValidationManager:<init> - Configured CommentValidator: Excess Links Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessLinksCommentValidator
+INFO  2013-12-18 15:39:28,196 CommentValidationManager:<init> - Configured CommentValidator: Excess Size Comment Validator / org.apache.roller.weblogger.ui.rendering.plugins.comments.ExcessSizeCommentValidator
+INFO  2013-12-18 15:39:28,196 CommentValidationManager:<init> - Configured 3 CommentValidators
+INFO  2013-12-18 15:39:28,453 BlacklistTest:setUp - Processing Blacklist file: C:\roller\trunk\roller_trunk\app/target\classesblacklist.txt
+INFO  2013-12-18 15:39:28,457 BlacklistTest:setUp - Processing Blacklist file: C:\roller\trunk\roller_trunk\app/target\classesblacklist.txt
+INFO  2013-12-18 15:39:28,462 BlacklistTest:setUp - Processing Blacklist file: C:\roller\trunk\roller_trunk\app/target\classesblacklist.txt
+INFO  2013-12-18 15:39:28,465 BlacklistTest:setUp - Processing Blacklist file: C:\roller\trunk\roller_trunk\app/target\classesblacklist.txt
+INFO  2013-12-18 15:39:28,469 BlacklistTest:setUp - Processing Blacklist file: C:\roller\trunk\roller_trunk\app/target\classesblacklist.txt
+INFO  2013-12-18 15:39:28,473 BlacklistTest:setUp - Processing Blacklist file: C:\roller\trunk\roller_trunk\app/target\classesblacklist.txt
+INFO  2013-12-18 15:39:28,476 BlacklistTest:setUp - Processing Blacklist file: C:\roller\trunk\roller_trunk\app/target\classesblacklist.txt
+INFO  2013-12-18 15:39:28,480 BlacklistTest:setUp - Processing Blacklist file: C:\roller\trunk\roller_trunk\app/target\classesblacklist.txt
+INFO  2013-12-18 15:39:28,484 BlacklistTest:setUp - Processing Blacklist file: C:\roller\trunk\roller_trunk\app/target\classesblacklist.txt

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/WEB-INF
+END
+security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/WEB-INF/security.xml
+END
+velocity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/WEB-INF/velocity.properties
+END

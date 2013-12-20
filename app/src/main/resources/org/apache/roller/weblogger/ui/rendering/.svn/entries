@@ -1,0 +1,83 @@
+10
+
+dir
+1551915
+https://svn.apache.org/repos/asf/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/ui/rendering
+https://svn.apache.org/repos/asf
+
+
+
+2013-06-08T21:44:53.692862Z
+1491074
+snoopdave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13f79535-47bb-0310-9956-ffa450edef68
+
+model
+dir
+
+pagers
+dir
+
+plugins
+dir
+
+servlets
+dir
+
+filters
+dir
+
+util
+dir
+
+velocity
+dir
+
+package.html
+file
+
+
+
+
+2013-12-18T11:14:59.130960Z
+ef0847c1917e6b65977d5a1ae8e44df6
+2013-06-08T21:44:53.692862Z
+1491074
+snoopdave
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1011
+

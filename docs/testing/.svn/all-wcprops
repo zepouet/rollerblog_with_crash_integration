@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/asf/!svn/ver/1510470/roller/trunk/docs/testing
+END
+test-plan.sxc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/testing/test-plan.sxc
+END
+roller-load-test.jmx
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/testing/roller-load-test.jmx
+END
+junit-cleartables-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1510470/roller/trunk/docs/testing/junit-cleartables-mysql.sql
+END

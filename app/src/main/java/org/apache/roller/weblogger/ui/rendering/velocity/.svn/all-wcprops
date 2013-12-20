@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/velocity
+END
+ThemeResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/velocity/ThemeResourceLoader.java
+END
+VelocityRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1531282/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/velocity/VelocityRenderer.java
+END
+VelocityRendererFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/velocity/VelocityRendererFactory.java
+END
+WebappResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1520831/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/velocity/WebappResourceLoader.java
+END
+RollerResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/velocity/RollerResourceLoader.java
+END
+RollerVelocity.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1531282/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/velocity/RollerVelocity.java
+END

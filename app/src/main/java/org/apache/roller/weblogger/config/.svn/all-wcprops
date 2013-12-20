@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/config
+END
+PingConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/config/PingConfig.java
+END
+WebloggerConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1520867/roller/trunk/app/src/main/java/org/apache/roller/weblogger/config/WebloggerConfig.java
+END
+WebloggerRuntimeConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/config/WebloggerRuntimeConfig.java
+END

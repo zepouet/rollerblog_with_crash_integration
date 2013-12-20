@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business
+END
+WebloggerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1520821/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/WebloggerImpl.java
+END
+BookmarkManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/BookmarkManager.java
+END
+MultiWeblogURLStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/MultiWeblogURLStrategy.java
+END
+HitCountQueue.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1514866/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/HitCountQueue.java
+END
+TestTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/TestTask.java
+END
+WebloggerFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505788/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/WebloggerFactory.java
+END
+FileContentManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/FileContentManager.java
+END
+GuiceWebloggerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1514871/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/GuiceWebloggerProvider.java
+END
+InitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/InitializationException.java
+END
+AbstractURLStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/AbstractURLStrategy.java
+END
+UserManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/UserManager.java
+END
+WeblogManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1504489/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/WeblogManager.java
+END
+MediaFileManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1505788/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/MediaFileManager.java
+END
+FilePathException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/FilePathException.java
+END
+FileNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/FileNotFoundException.java
+END
+OAuthManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/OAuthManager.java
+END
+Weblogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/Weblogger.java
+END
+DatabaseProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/DatabaseProvider.java
+END
+URLStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1530969/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/URLStrategy.java
+END
+FileIOException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/FileIOException.java
+END
+PreviewURLStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/PreviewURLStrategy.java
+END
+PropertiesManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/PropertiesManager.java
+END
+FileContentManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1520953/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/FileContentManagerImpl.java
+END
+WebloggerProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/WebloggerProvider.java
+END
+BootstrapException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/BootstrapException.java
+END
+WeblogEntryManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/WeblogEntryManager.java
+END
+MailProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/MailProvider.java
+END

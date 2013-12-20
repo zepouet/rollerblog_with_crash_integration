@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable
+END
+RollerTaskWithLeasing.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/RollerTaskWithLeasing.java
+END
+TaskScheduler.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1512867/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/TaskScheduler.java
+END
+WorkerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1514866/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/WorkerThread.java
+END
+RollerTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/RollerTask.java
+END
+ThreadManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/ThreadManager.java
+END
+ThreadManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/ThreadManagerImpl.java
+END
+HitCountProcessingJob.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/HitCountProcessingJob.java
+END
+TurnoverReferersTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/TurnoverReferersTask.java
+END
+ResetHitCountsTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/ResetHitCountsTask.java
+END
+ContinuousWorkerThread.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/ContinuousWorkerThread.java
+END
+Job.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/Job.java
+END
+TaskRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/TaskRunner.java
+END
+ScheduledEntriesTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/runnable/ScheduledEntriesTask.java
+END

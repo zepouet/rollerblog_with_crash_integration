@@ -1,0 +1,7 @@
+K 13
+svn:mergeinfo
+V 401
+/roller/branches/roller_5.0/weblogger-business/src/main/resources/org/apache/roller/weblogger/config/roller.properties:1103970-1343069
+/roller/branches/roller_mediablogging/apps/weblogger/src/java/org/apache/roller/weblogger/config/roller.properties:713070-782269
+/roller/branches/roller_mobile/weblogger-business/src/main/resources/org/apache/roller/weblogger/config/roller.properties:1139921-1160032
+END

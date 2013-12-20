@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/configs/tomcat
+END
+mod_jk.conf
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/configs/tomcat/mod_jk.conf
+END

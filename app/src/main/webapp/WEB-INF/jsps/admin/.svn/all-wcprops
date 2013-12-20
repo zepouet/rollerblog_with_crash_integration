@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1546861/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin
+END
+CommonPingTargetAdd.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/CommonPingTargetAdd.jsp
+END
+GlobalConfig.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/GlobalConfig.jsp
+END
+ModifyUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1517546/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/ModifyUser.jsp
+END
+UserAdmin.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/UserAdmin.jsp
+END
+PlanetConfig.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/PlanetConfig.jsp
+END
+GlobalCommentManagementSidebar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/GlobalCommentManagementSidebar.jsp
+END
+CommonPingTargetConfirm.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/CommonPingTargetConfirm.jsp
+END
+PlanetSubscriptions.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/PlanetSubscriptions.jsp
+END
+CacheInfo.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/CacheInfo.jsp
+END
+CommonPingTargets.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1546861/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/CommonPingTargets.jsp
+END
+GlobalCommentManagement.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1508393/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/GlobalCommentManagement.jsp
+END
+CreateUser.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/CreateUser.jsp
+END
+CommonPingTargetEdit.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/CommonPingTargetEdit.jsp
+END
+PlanetGroups.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/admin/PlanetGroups.jsp
+END

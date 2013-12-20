@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1545976/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/config
+END
+roller.properties
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1545976/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/config/roller.properties
+END
+runtimeConfigDefs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/config/runtimeConfigDefs.xml
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/org/apache/roller/weblogger/config/package.html
+END

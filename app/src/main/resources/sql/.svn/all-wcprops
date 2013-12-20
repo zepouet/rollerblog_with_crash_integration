@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/asf/!svn/ver/1514786/roller/trunk/app/src/main/resources/sql
+END
+dbscripts.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1506004/roller/trunk/app/src/main/resources/sql/dbscripts.properties
+END
+mssql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/mssql.properties
+END
+createdb.vm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/createdb.vm
+END
+310-to-400-migration.vm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/310-to-400-migration.vm
+END
+droptables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/droptables.sql
+END
+400-to-500-migration.vm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1514786/roller/trunk/app/src/main/resources/sql/400-to-500-migration.vm
+END
+postgresql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/postgresql.properties
+END
+500-to-510-migration.vm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/500-to-510-migration.vm
+END
+derby.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/derby.properties
+END
+mysql.properties
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/mysql.properties
+END
+oracle.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/oracle.properties
+END
+control.vm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/control.vm
+END
+db2.properties
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/db2.properties
+END
+macros.vm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/macros.vm
+END
+hsqldb.properties
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/sql/hsqldb.properties
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/themes
+END
+new_page.vm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/themes/new_page.vm
+END
+css.vm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/themes/css.vm
+END
+day.vm
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/resources/themes/day.vm
+END

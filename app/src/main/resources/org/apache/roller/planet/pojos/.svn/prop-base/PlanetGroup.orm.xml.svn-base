@@ -1,0 +1,6 @@
+K 13
+svn:mergeinfo
+V 256
+/roller/branches/roller_mediablogging/apps/planet/src/java/org/apache/roller/planet/pojos/PlanetGroup.orm.xml:713070-782269
+/roller/branches/roller_mobile/planet-business/src/main/resources/org/apache/roller/planet/pojos/PlanetGroup.orm.xml:1139921-1160032
+END

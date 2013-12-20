@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 105
+nb-configuration.xml
+roller-startup.log
+.classpath
+.externalToolBuilders
+.project
+target
+.settings
+*.iml
+
+END

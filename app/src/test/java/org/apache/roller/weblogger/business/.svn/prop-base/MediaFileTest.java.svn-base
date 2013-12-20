@@ -1,0 +1,9 @@
+K 13
+svn:mergeinfo
+V 607
+/roller/branches/fewer_modules/app/src/test/java/org/apache/roller/weblogger/business/MediaFileTest.java:1465398-1491055
+/roller/branches/roller_5.0/app/src/test/java/org/apache/roller/weblogger/business/MediaFileTest.java:1103970-1343069
+/roller/branches/roller_mavenized/app/src/test/java/org/apache/roller/weblogger/business/MediaFileTest.java:894711-895418
+/roller/branches/roller_mediablogging/app/src/test/java/org/apache/roller/weblogger/business/MediaFileTest.java:713070-782269
+/roller/branches/roller_mobile/app/src/test/java/org/apache/roller/weblogger/business/MediaFileTest.java:1139921-1160032
+END

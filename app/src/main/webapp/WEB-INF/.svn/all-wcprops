@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/asf/!svn/ver/1549969/roller/trunk/app/src/main/webapp/WEB-INF
+END
+sun-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/sun-web.xml
+END
+tiles.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1518056/roller/trunk/app/src/main/webapp/WEB-INF/tiles.xml
+END
+taglib.tld
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/taglib.tld
+END
+security.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1516294/roller/trunk/app/src/main/webapp/WEB-INF/security.xml
+END
+velocity.properties
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1513378/roller/trunk/app/src/main/webapp/WEB-INF/velocity.properties
+END
+jboss-web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jboss-web.xml
+END
+jboss-deployment-structure.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1507126/roller/trunk/app/src/main/webapp/WEB-INF/jboss-deployment-structure.xml
+END
+web.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1517033/roller/trunk/app/src/main/webapp/WEB-INF/web.xml
+END

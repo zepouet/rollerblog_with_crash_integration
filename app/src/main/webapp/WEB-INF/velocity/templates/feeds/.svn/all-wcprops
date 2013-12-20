@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds
+END
+site-entries-rss.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/site-entries-rss.vm
+END
+weblog-comments-atom.vm
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/weblog-comments-atom.vm
+END
+weblog-search-atom.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/weblog-search-atom.vm
+END
+weblog-entries-atom.vm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/weblog-entries-atom.vm
+END
+site-comments-atom.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/site-comments-atom.vm
+END
+site-search-atom.vm
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/site-search-atom.vm
+END
+weblog-comments-rss.vm
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/weblog-comments-rss.vm
+END
+site-entries-atom.vm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/site-entries-atom.vm
+END
+weblog-entries-rss.vm
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/weblog-entries-rss.vm
+END
+site-comments-rss.vm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/site-comments-rss.vm
+END
+weblog-files-atom.vm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/feeds/weblog-files-atom.vm
+END

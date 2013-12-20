@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome
+END
+ContentModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome/ContentModule.java
+END
+PlanetRSS091NParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome/PlanetRSS091NParser.java
+END
+ContentModuleImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome/ContentModuleImpl.java
+END
+PlanetConverterForRSS091N.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome/PlanetConverterForRSS091N.java
+END
+ContentModuleGenerator.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome/ContentModuleGenerator.java
+END
+PlanetRSS091UParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome/PlanetRSS091UParser.java
+END
+PlanetConverterForRSS091U.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome/PlanetConverterForRSS091U.java
+END
+PlanetConverterForRSS20.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1504435/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome/PlanetConverterForRSS20.java
+END
+ContentModuleParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/util/rome/ContentModuleParser.java
+END

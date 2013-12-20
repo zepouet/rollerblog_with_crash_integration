@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/comment
+END
+AutoformatPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/comment/AutoformatPlugin.java
+END
+WeblogEntryCommentPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/comment/WeblogEntryCommentPlugin.java
+END
+HTMLSubsetPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/comment/HTMLSubsetPlugin.java
+END
+LinkMarkupPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/comment/LinkMarkupPlugin.java
+END

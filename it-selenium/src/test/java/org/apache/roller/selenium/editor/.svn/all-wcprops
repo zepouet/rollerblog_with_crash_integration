@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1510443/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/editor
+END
+AbstractEntryPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1510094/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/editor/AbstractEntryPage.java
+END
+EntryEditPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1510443/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/editor/EntryEditPage.java
+END
+EntryAddPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1510094/roller/trunk/it-selenium/src/test/java/org/apache/roller/selenium/editor/EntryAddPage.java
+END

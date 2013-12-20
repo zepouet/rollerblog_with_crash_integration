@@ -1,0 +1,311 @@
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1549969/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor
+END
+Referrers.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1519874/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/Referrers.java
+END
+StylesheetEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1520831/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/StylesheetEdit.java
+END
+MediaFileImageChooser.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1512325/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MediaFileImageChooser.java
+END
+MediaFileBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1502823/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MediaFileBean.java
+END
+WeblogConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/WeblogConfig.java
+END
+CustomPingTargetEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/CustomPingTargetEdit.java
+END
+EntryAddWithMediaFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/EntryAddWithMediaFile.java
+END
+TemplateEditBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/TemplateEditBean.java
+END
+ThemeEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1520821/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/ThemeEdit.java
+END
+Entries.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/Entries.java
+END
+MembersInvite.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MembersInvite.java
+END
+MediaFileView.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MediaFileView.java
+END
+EntryAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/EntryAdd.java
+END
+BookmarkEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/BookmarkEdit.java
+END
+CommentsBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/CommentsBean.java
+END
+TemplatesRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/TemplatesRemove.java
+END
+MediaFileImageDim.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MediaFileImageDim.java
+END
+FolderEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/FolderEdit.java
+END
+WeblogExport.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/WeblogExport.java
+END
+Maintenance.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1519874/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/Maintenance.java
+END
+CustomPingTargets.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/CustomPingTargets.java
+END
+CategoryEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/CategoryEdit.java
+END
+BookmarksImport.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/BookmarksImport.java
+END
+MediaFileAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1519237/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MediaFileAdd.java
+END
+Bookmarks.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/Bookmarks.java
+END
+Members.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1519237/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/Members.java
+END
+WeblogConfigBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1504435/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/WeblogConfigBean.java
+END
+CategoryRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1549969/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/CategoryRemove.java
+END
+BookmarkBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/BookmarkBean.java
+END
+EntryBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1517646/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/EntryBase.java
+END
+EntriesBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/EntriesBean.java
+END
+FolderBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/FolderBean.java
+END
+CategoryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/CategoryBean.java
+END
+EntryEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1517951/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/EntryEdit.java
+END
+CustomPingTargetAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/CustomPingTargetAdd.java
+END
+MediaFileBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1519237/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MediaFileBase.java
+END
+BookmarkAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/BookmarkAdd.java
+END
+EntryRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/EntryRemove.java
+END
+MemberResign.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1518056/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MemberResign.java
+END
+Pings.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1520831/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/Pings.java
+END
+TemplateEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/TemplateEdit.java
+END
+FolderAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/FolderAdd.java
+END
+MediaFileEdit.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repos/asf/!svn/ver/1519237/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MediaFileEdit.java
+END
+Categories.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/Categories.java
+END
+Comments.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/Comments.java
+END
+CategoryAdd.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/CategoryAdd.java
+END
+EntryBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/EntryBean.java
+END
+TemplateRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1520777/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/TemplateRemove.java
+END
+MediaFileSearchBean.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/MediaFileSearchBean.java
+END
+WeblogRemove.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repos/asf/!svn/ver/1519237/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/WeblogRemove.java
+END
+Templates.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/struts2/editor/Templates.java
+END

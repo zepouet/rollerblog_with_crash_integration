@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/asf/!svn/ver/1549360/roller/trunk/app/src/main/webapp/WEB-INF/velocity
+END
+weblog.vm
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1549360/roller/trunk/app/src/main/webapp/WEB-INF/velocity/weblog.vm
+END
+feeds.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1510000/roller/trunk/app/src/main/webapp/WEB-INF/velocity/feeds.vm
+END
+roller-custom.vm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/velocity/roller-custom.vm
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol
+END
+UnauthorizedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/UnauthorizedException.java
+END
+AppUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/AppUrl.java
+END
+Authenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/Authenticator.java
+END
+NotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/NotFoundException.java
+END
+BasicAuthenticator.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1512325/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/BasicAuthenticator.java
+END
+Handler.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/Handler.java
+END
+BadRequestException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/BadRequestException.java
+END
+RollerMemberHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/RollerMemberHandler.java
+END
+NotAllowedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/NotAllowedException.java
+END
+InternalException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/InternalException.java
+END
+RollerUserHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1504435/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/RollerUserHandler.java
+END
+HandlerException.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/HandlerException.java
+END
+RollerWeblogHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/RollerWeblogHandler.java
+END
+AdminServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1504435/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/AdminServlet.java
+END
+IntrospectionHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/IntrospectionHandler.java
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1549969/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper
+END
+ThemeTemplateWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/ThemeTemplateWrapper.java
+END
+UserWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/UserWrapper.java
+END
+WeblogWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/WeblogWrapper.java
+END
+WeblogBookmarkFolderWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/WeblogBookmarkFolderWrapper.java
+END
+WeblogEntryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1545147/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/WeblogEntryWrapper.java
+END
+WeblogEntryCommentWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/WeblogEntryCommentWrapper.java
+END
+WeblogBookmarkWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/WeblogBookmarkWrapper.java
+END
+WeblogEntryAttributeWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/WeblogEntryAttributeWrapper.java
+END
+WeblogReferrerWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/WeblogReferrerWrapper.java
+END
+WeblogCategoryWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1549969/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/WeblogCategoryWrapper.java
+END
+WeblogEntryTagWrapper.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/WeblogEntryTagWrapper.java
+END
+package.html
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/pojos/wrapper/package.html
+END

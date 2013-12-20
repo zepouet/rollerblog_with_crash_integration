@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/asf/!svn/ver/1518056/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core
+END
+Register.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1508391/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/Register.jsp
+END
+CreateDatabase.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/CreateDatabase.jsp
+END
+Welcome.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1511450/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/Welcome.jsp
+END
+Setup.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1511450/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/Setup.jsp
+END
+Profile.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/Profile.jsp
+END
+MainMenuSidebar.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/MainMenuSidebar.jsp
+END
+CreateWeblog.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/CreateWeblog.jsp
+END
+Login.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/Login.jsp
+END
+UnknownError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/UnknownError.jsp
+END
+MainMenu.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1518056/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/MainMenu.jsp
+END
+OAuthAuthorize.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/OAuthAuthorize.jsp
+END
+UpgradeDatabase.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/UpgradeDatabase.jsp
+END
+RegisterDisabled.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/RegisterDisabled.jsp
+END
+OAuthKeys.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/OAuthKeys.jsp
+END
+DatabaseError.jsp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/WEB-INF/jsps/core/DatabaseError.jsp
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/asf/!svn/ver/1533866/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates
+END
+error-parse.vm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/repos/asf/!svn/ver/1533866/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/error-parse.vm
+END
+error-page.vm
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1533866/roller/trunk/app/src/main/webapp/WEB-INF/velocity/templates/error-page.vm
+END

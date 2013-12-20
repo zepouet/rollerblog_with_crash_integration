@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations
+END
+RemoveEntryOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations/RemoveEntryOperation.java
+END
+ReIndexEntryOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations/ReIndexEntryOperation.java
+END
+RebuildWebsiteIndexOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations/RebuildWebsiteIndexOperation.java
+END
+SearchOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations/SearchOperation.java
+END
+WriteToIndexOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations/WriteToIndexOperation.java
+END
+IndexOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1531288/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations/IndexOperation.java
+END
+ReadFromIndexOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations/ReadFromIndexOperation.java
+END
+RemoveWebsiteIndexOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations/RemoveWebsiteIndexOperation.java
+END
+AddEntryOperation.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/search/operations/AddEntryOperation.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1549360/roller/trunk/app/src/main/webapp/themes/fauxcoly
+END
+weblog.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1549360/roller/trunk/app/src/main/webapp/themes/fauxcoly/weblog.vm
+END
+searchhi.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1508629/roller/trunk/app/src/main/webapp/themes/fauxcoly/searchhi.js
+END
+theme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/themes/fauxcoly/theme.xml
+END
+entry.vm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/asf/!svn/ver/1549360/roller/trunk/app/src/main/webapp/themes/fauxcoly/entry.vm
+END
+custom_css.vm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/themes/fauxcoly/custom_css.vm
+END
+std_header.vm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/themes/fauxcoly/std_header.vm
+END
+archives.vm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/themes/fauxcoly/archives.vm
+END
+search.vm
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/asf/!svn/ver/1508629/roller/trunk/app/src/main/webapp/themes/fauxcoly/search.vm
+END
+tags_index.vm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/themes/fauxcoly/tags_index.vm
+END
+std_footer.vm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/themes/fauxcoly/std_footer.vm
+END
+style_css.vm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/themes/fauxcoly/style_css.vm
+END
+std_head.vm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/themes/fauxcoly/std_head.vm
+END
+day.vm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/webapp/themes/fauxcoly/day.vm
+END

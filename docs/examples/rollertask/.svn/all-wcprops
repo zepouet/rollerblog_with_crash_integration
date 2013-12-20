@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/rollertask
+END
+roller-custom.properties
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/rollertask/roller-custom.properties
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/rollertask/README.txt
+END
+rollertask.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/asf/!svn/ver/1491090/roller/trunk/docs/examples/rollertask/rollertask.sh
+END

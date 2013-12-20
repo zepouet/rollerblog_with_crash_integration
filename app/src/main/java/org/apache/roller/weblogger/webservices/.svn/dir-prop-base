@@ -1,0 +1,13 @@
+K 13
+svn:mergeinfo
+V 1059
+/roller/branches/fewer_modules/weblogger-webapp/src/main/java/org/apache/roller/weblogger/webservices:1465398-1491055
+/roller/branches/roller_5.0/weblogger-webapp/src/main/java/org/apache/roller/weblogger/webservices:1103970-1343069
+/roller/branches/roller_mavenized/weblogger-web/src/main/java/org/apache/roller/weblogger/webservices:894711-895418
+/roller/branches/roller_mavenized/weblogger-webapp/src/main/java/org/apache/roller/weblogger/webservices:894711-895418
+/roller/branches/roller_mediablogging/apps/weblogger/src/java/org/apache/roller/weblogger/webservices:713070-782269
+/roller/branches/roller_mediablogging/weblogger-web/src/main/java/org/apache/roller/weblogger/webservices:713070-782269
+/roller/branches/roller_mediablogging/weblogger-webapp/src/main/java/org/apache/roller/weblogger/webservices:713070-782269
+/roller/branches/roller_mobile/weblogger-web/src/main/java/org/apache/roller/weblogger/webservices:1139921-1160032
+/roller/branches/roller_mobile/weblogger-webapp/src/main/java/org/apache/roller/weblogger/webservices:1139921-1160032
+END

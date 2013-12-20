@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/planet/business
+END
+AbstractManagerImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/business/AbstractManagerImpl.java
+END
+Planet.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/planet/business/Planet.java
+END
+MultiPlanetURLStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repos/asf/!svn/ver/1546770/roller/trunk/app/src/main/java/org/apache/roller/planet/business/MultiPlanetURLStrategy.java
+END
+InitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/business/InitializationException.java
+END
+PlanetURLStrategy.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/planet/business/PlanetURLStrategy.java
+END
+Manager.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/planet/business/Manager.java
+END
+BootstrapException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/business/BootstrapException.java
+END
+PlanetManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/repos/asf/!svn/ver/1505788/roller/trunk/app/src/main/java/org/apache/roller/planet/business/PlanetManager.java
+END
+PlanetProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1504489/roller/trunk/app/src/main/java/org/apache/roller/planet/business/PlanetProvider.java
+END

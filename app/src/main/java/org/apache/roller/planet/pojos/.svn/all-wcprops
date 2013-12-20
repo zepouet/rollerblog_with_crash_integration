@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/planet/pojos
+END
+PlanetGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/repos/asf/!svn/ver/1551565/roller/trunk/app/src/main/java/org/apache/roller/planet/pojos/PlanetGroup.java
+END
+Author.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/pojos/Author.java
+END
+Planet.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/repos/asf/!svn/ver/1551565/roller/trunk/app/src/main/java/org/apache/roller/planet/pojos/Planet.java
+END
+StaticTemplate.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/pojos/StaticTemplate.java
+END
+Subscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1551565/roller/trunk/app/src/main/java/org/apache/roller/planet/pojos/Subscription.java
+END
+SubscriptionEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repos/asf/!svn/ver/1551670/roller/trunk/app/src/main/java/org/apache/roller/planet/pojos/SubscriptionEntry.java
+END
+Template.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/planet/pojos/Template.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/planet/pojos/Category.java
+END

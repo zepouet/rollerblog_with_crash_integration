@@ -1,0 +1,26 @@
+K 10
+svn:ignore
+V 155
+nb-configuration.xml
+roller-project.iws
+.idea
+roller-project.ipr
+build
+roller-project.iml
+velocity.log
+roller-startup.log
+tomcat
+target
+out
+work
+.settings
+
+K 13
+svn:mergeinfo
+V 237
+/roller/branches/fewer_modules:1465398-1491055
+/roller/branches/roller_5.0:1103970-1343069
+/roller/branches/roller_mavenized:894711-895418
+/roller/branches/roller_mediablogging:713070-782269
+/roller/branches/roller_mobile:1139921-1160032
+END

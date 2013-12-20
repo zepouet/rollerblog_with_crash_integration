@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/asf/!svn/ver/1504435/roller/trunk/app/src/test/java/org/apache/roller/weblogger/util
+END
+BlacklistTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/weblogger/util/BlacklistTest.java
+END
+LRUCache2Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/weblogger/util/LRUCache2Test.java
+END
+LinkbackExtractorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repos/asf/!svn/ver/1504435/roller/trunk/app/src/test/java/org/apache/roller/weblogger/util/LinkbackExtractorTest.java
+END
+UtilitiesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/weblogger/util/UtilitiesTest.java
+END

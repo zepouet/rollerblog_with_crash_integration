@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry
+END
+ConvertLineBreaksPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/ConvertLineBreaksPlugin.java
+END
+SearchPluginBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1504435/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/SearchPluginBase.java
+END
+WeblogEntryPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/WeblogEntryPlugin.java
+END
+ObfuscateEmailPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repos/asf/!svn/ver/1504435/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/ObfuscateEmailPlugin.java
+END
+WikipediaLinkPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/WikipediaLinkPlugin.java
+END
+BookmarkPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1520821/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/BookmarkPlugin.java
+END
+SmileysPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/SmileysPlugin.java
+END
+GoogleLinkPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/GoogleLinkPlugin.java
+END
+TopicTagPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1520708/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/TopicTagPlugin.java
+END
+AcronymsPlugin.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/plugins/entry/AcronymsPlugin.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/util
+END
+UtilitiesTestSuite.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/util/UtilitiesTestSuite.java
+END
+RegexUtilTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/util/RegexUtilTest.java
+END
+PropertyExpanderTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/java/org/apache/roller/util/PropertyExpanderTest.java
+END

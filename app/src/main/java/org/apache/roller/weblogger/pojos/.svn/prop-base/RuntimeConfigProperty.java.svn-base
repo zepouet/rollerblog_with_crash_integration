@@ -1,0 +1,6 @@
+K 13
+svn:mergeinfo
+V 277
+/roller/branches/roller_mediablogging/apps/weblogger/src/java/org/apache/roller/weblogger/pojos/RuntimeConfigProperty.java:713070-782269
+/roller/branches/roller_mobile/weblogger-business/src/main/java/org/apache/roller/weblogger/pojos/RuntimeConfigProperty.java:1139921-1160032
+END

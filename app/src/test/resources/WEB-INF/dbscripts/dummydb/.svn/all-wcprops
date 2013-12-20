@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/WEB-INF/dbscripts/dummydb
+END
+createdb-derby.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/WEB-INF/dbscripts/dummydb/createdb-derby.sql
+END
+createdb-mysql.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/WEB-INF/dbscripts/dummydb/createdb-mysql.sql
+END
+droptables.sql
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/test/resources/WEB-INF/dbscripts/dummydb/droptables.sql
+END

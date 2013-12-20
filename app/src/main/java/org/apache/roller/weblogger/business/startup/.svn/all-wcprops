@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/startup
+END
+WebloggerStartup.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/startup/WebloggerStartup.java
+END
+StartupException.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/startup/StartupException.java
+END
+DatabaseInstaller.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/startup/DatabaseInstaller.java
+END
+DatabaseScriptProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1509084/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/startup/DatabaseScriptProvider.java
+END
+ClasspathDatabaseScriptProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repos/asf/!svn/ver/1509084/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/startup/ClasspathDatabaseScriptProvider.java
+END
+SQLScriptRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1516602/roller/trunk/app/src/main/java/org/apache/roller/weblogger/business/startup/SQLScriptRunner.java
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repos/asf/!svn/ver/1546963/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets
+END
+PageServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1546955/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/PageServlet.java
+END
+CommentAuthenticatorServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/repos/asf/!svn/ver/1517701/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/CommentAuthenticatorServlet.java
+END
+PreviewServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1542706/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/PreviewServlet.java
+END
+CommentServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repos/asf/!svn/ver/1508393/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/CommentServlet.java
+END
+FeedServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/FeedServlet.java
+END
+SearchServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1546963/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/SearchServlet.java
+END
+TrackbackServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/TrackbackServlet.java
+END
+MediaResourceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1530968/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/MediaResourceServlet.java
+END
+PlanetFeedServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1546778/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/PlanetFeedServlet.java
+END
+PreviewThemeImageServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repos/asf/!svn/ver/1530968/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/PreviewThemeImageServlet.java
+END
+ResourceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1530968/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/ResourceServlet.java
+END
+RSDServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repos/asf/!svn/ver/1530968/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/RSDServlet.java
+END
+PreviewResourceServlet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1530968/roller/trunk/app/src/main/java/org/apache/roller/weblogger/ui/rendering/servlets/PreviewResourceServlet.java
+END

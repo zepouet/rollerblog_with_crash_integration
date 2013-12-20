@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk
+END
+Service.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/Service.java
+END
+UserEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/UserEntry.java
+END
+Entry.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/Entry.java
+END
+UnexpectedRootElementException.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/UnexpectedRootElementException.java
+END
+WeblogEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1546773/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/WeblogEntry.java
+END
+MemberEntrySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1507273/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/MemberEntrySet.java
+END
+LocaleString.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1491090/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/LocaleString.java
+END
+MemberEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repos/asf/!svn/ver/1505582/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/MemberEntry.java
+END
+UserEntrySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/UserEntrySet.java
+END
+EntrySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repos/asf/!svn/ver/1507273/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/EntrySet.java
+END
+WeblogEntrySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repos/asf/!svn/ver/1505192/roller/trunk/app/src/main/java/org/apache/roller/weblogger/webservices/adminprotocol/sdk/WeblogEntrySet.java
+END
